@@ -46,7 +46,8 @@ class DialogController {
         //var codigo_produto = "902006683";
         var codigo_produto = parametro.CodigoInterno;
         response = await axios.get(`${host}/codigo/${codigo_produto}`);
-        resposta = response.data;
+        resposta = response.data.text;
+        mensagens = response.data.messages;
       }
 
       if (intent == "Produtos") {
@@ -58,8 +59,7 @@ class DialogController {
 
       if (intent == "Sugestões") {
         response = await axios.get(`${host}/sugestao`);
-        resposta = response.data.text;
-        mensagens = response.data.messages;
+        resposta = response.data;
       }
 
       if (intent == "CEP_participante") {

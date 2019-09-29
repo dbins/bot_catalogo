@@ -49,7 +49,7 @@
  {
    "pro_cod": 1442,
    "pro_cod_ext1": 902006684,
-   "pro_descricao": "Curso gest�o de estoque",
+   "pro_descricao": "Curso gestao de estoque",
    "pontos": "195",
    "categoria": "Cursos e Consultorias",
    "imagem": "GESTAO DE ESTOQUE.JPG"
@@ -65,7 +65,7 @@
  {
    "pro_cod": 1444,
    "pro_cod_ext1": 902006692,
-   "pro_descricao": "Curso entendendo a matem�tica comercial",
+   "pro_descricao": "Curso entendendo a matematica comercial",
    "pontos": "195",
    "categoria": "Cursos e Consultorias",
    "imagem": "ENTENDENDO A MATEMATICA COMERCIAL.JPG"
@@ -73,7 +73,7 @@
  {
    "pro_cod": 1445,
    "pro_cod_ext1": 902007002,
-   "pro_descricao": "Curso A��es Eficazes Em Vendas",
+   "pro_descricao": "Curso Acoes Eficazes Em Vendas",
    "pontos": "245",
    "categoria": "Cursos e Consultorias",
    "imagem": "CURSO ACOES EFICAZES EM VENDAS.JPG"
@@ -81,7 +81,7 @@
  {
    "pro_cod": 1446,
    "pro_cod_ext1": 902007003,
-   "pro_descricao": "Curso Estrat�gia De Negociacao",
+   "pro_descricao": "Curso Estrategia De Negociacao",
    "pontos": "245",
    "categoria": "Cursos e Consultorias",
    "imagem": "CURSO ESTRATEGIA DE NEGOCIACAO.JPG"
@@ -201,7 +201,7 @@
  {
    "pro_cod": 1507,
    "pro_cod_ext1": 902009789,
-   "pro_descricao": "Guilhotina De Fac�o 300/f",
+   "pro_descricao": "Guilhotina De Facao 300/f",
    "pontos": "355",
    "categoria": "Ferramentas",
    "imagem": "09266.JPG"
@@ -209,7 +209,7 @@
  {
    "pro_cod": 1508,
    "pro_cod_ext1": 902009790,
-   "pro_descricao": "Guilhotina De Fac�o 360/f",
+   "pro_descricao": "Guilhotina De Facao 360/f",
    "pontos": "430",
    "categoria": "Equipamento",
    "imagem": "02669.JPG"
@@ -217,7 +217,7 @@
  {
    "pro_cod": 1509,
    "pro_cod_ext1": 902009791,
-   "pro_descricao": "Guilhotina De Fac�o 460/f",
+   "pro_descricao": "Guilhotina De Facao 460/f",
    "pontos": "525",
    "categoria": "Equipamento",
    "imagem": "02670.JPG"
@@ -281,7 +281,7 @@
  {
    "pro_cod": 3536,
    "pro_cod_ext1": 902006511,
-   "pro_descricao": "Aspirador De P� E �gua A 2003 Plus - 110 V",
+   "pro_descricao": "Aspirador De Po E Agua A 2003 Plus - 110 V",
    "pontos": "950",
    "categoria": "Eletroportáteis",
    "imagem": "ASPIRADOR DE PO E AGUA A 2003 PLUS.JPG"
@@ -289,7 +289,7 @@
  {
    "pro_cod": 3537,
    "pro_cod_ext1": 902006512,
-   "pro_descricao": "Aspirador De P� E �gua A 2003 Plus - 220 V",
+   "pro_descricao": "Aspirador De P� E Agua A 2003 Plus - 220 V",
    "pontos": "955",
    "categoria": "Eletroportáteis",
    "imagem": "ASPIRADOR DE PO E AGUA A 2003 PLUS.JPG"
@@ -337,7 +337,7 @@
  {
    "pro_cod": 3735,
    "pro_cod_ext1": 902003075,
-   "pro_descricao": "Cj. Ca�arola 3 P�s 16/18/20 Maleta",
+   "pro_descricao": "Cj. Cacarola 3 Pcs 16/18/20 Maleta",
    "pontos": "250",
    "categoria": "Casa e Decoracao",
    "imagem": "cj-cacarola.JPG"
@@ -345,7 +345,7 @@
  {
    "pro_cod": 3737,
    "pro_cod_ext1": 902004362,
-   "pro_descricao": "Coffee Man Seduction Des. Col�nia",
+   "pro_descricao": "Coffee Man Seduction Des. Colonia",
    "pontos": " 100ml",
    "categoria": "460",
    "imagem": "Mês dos Pais",
@@ -357,7 +357,7 @@
  {
    "pro_cod": 3791,
    "pro_cod_ext1": 902004928,
-   "pro_descricao": "Cr�dito de Combust�vel 10",
+   "pro_descricao": "Credito de Combust�vel 10",
    "pontos": "00",
    "categoria": "70",
    "imagem": "Vale Combust�vel",
@@ -369,7 +369,7 @@
  {
    "pro_cod": 3792,
    "pro_cod_ext1": 902004931,
-   "pro_descricao": "Cr�dito de Combust�vel 100",
+   "pro_descricao": "Credito de Combust�vel 100",
    "pontos": "00",
    "categoria": "660",
    "imagem": "Vale Combust�vel",
@@ -381,7 +381,7 @@
  {
    "pro_cod": 3793,
    "pro_cod_ext1": 902004929,
-   "pro_descricao": "Cr�dito de Combust�vel 15",
+   "pro_descricao": "Credito de Combust�vel 15",
    "pontos": "00",
    "categoria": "100",
    "imagem": "Vale Combust�vel",
@@ -393,7 +393,7 @@
  {
    "pro_cod": 3794,
    "pro_cod_ext1": 902004930,
-   "pro_descricao": "Cr�dito de Combust�vel 25",
+   "pro_descricao": "Credito de Combust�vel 25",
    "pontos": "00",
    "categoria": "165",
    "imagem": "Vale Combust�vel",
@@ -485,7 +485,7 @@
  {
    "pro_cod": 3818,
    "pro_cod_ext1": 902007005,
-   "pro_descricao": "Curso T�cnicas Campe�s De Vendas",
+   "pro_descricao": "Curso Tecnicas Campe�s De Vendas",
    "pontos": "245",
    "categoria": "Cursos e Consultorias",
    "imagem": "CURSO TECNICAS CAMPEAS DE VENDAS.JPG"
@@ -493,7 +493,7 @@
  {
    "pro_cod": 3819,
    "pro_cod_ext1": 902007006,
-   "pro_descricao": "Curso T�cnicas De Fidelizacao - Fazendo O Cliente Voltar",
+   "pro_descricao": "Curso Tecnicas De Fidelizacao - Fazendo O Cliente Voltar",
    "pontos": "245",
    "categoria": "Cursos e Consultorias",
    "imagem": "TECNICAS DE FIDELIZACAO.JPG"
@@ -501,7 +501,7 @@
  {
    "pro_cod": 3820,
    "pro_cod_ext1": 902007010,
-   "pro_descricao": "Curso T�cnicas De Lideran�a",
+   "pro_descricao": "Curso Tecnicas De Lideran�a",
    "pontos": "245",
    "categoria": "Cursos e Consultorias",
    "imagem": "CURSO TECNICAS DE LIDERANCA.JPG"
@@ -509,7 +509,7 @@
  {
    "pro_cod": 3821,
    "pro_cod_ext1": 902006690,
-   "pro_descricao": "Curso T�cnicas de Vendas",
+   "pro_descricao": "Curso Tecnicas de Vendas",
    "pontos": "195",
    "categoria": "Cursos e Consultorias",
    "imagem": "TECNICAS DE VENDA.JPG"
@@ -661,7 +661,7 @@
  {
    "pro_cod": 4222,
    "pro_cod_ext1": 902006578,
-   "pro_descricao": "M�quina Para Cortar Vergalhao N�0 Com Cabo",
+   "pro_descricao": "Maquina Para Cortar Vergalhao N�0 Com Cabo",
    "pontos": "435",
    "categoria": "Desconto Exclusivo",
    "imagem": "MAQUINA PARA CORTAR VERGALHAO.JPG"
@@ -701,7 +701,7 @@
  {
    "pro_cod": 11946,
    "pro_cod_ext1": 902010484,
-   "pro_descricao": "Camisa P�lo Azul P - Suzano +",
+   "pro_descricao": "Camisa Polo Azul P - Suzano +",
    "pontos": "150",
    "categoria": "Exclusividade Suzano",
    "imagem": "polosuzanonovo.JPG"
@@ -709,7 +709,7 @@
  {
    "pro_cod": 11947,
    "pro_cod_ext1": 902010485,
-   "pro_descricao": "Camisa P�lo Azul M - Suzano +",
+   "pro_descricao": "Camisa Polo Azul M - Suzano +",
    "pontos": "150",
    "categoria": "Exclusividade Suzano",
    "imagem": "polosuzanonovo.JPG"
@@ -725,7 +725,7 @@
  {
    "pro_cod": 11949,
    "pro_cod_ext1": 902010487,
-   "pro_descricao": "Camisa P�lo Azul GG - Suzano +",
+   "pro_descricao": "Camisa Polo Azul GG - Suzano +",
    "pontos": "150",
    "categoria": "Exclusividade Suzano",
    "imagem": "polosuzanonovo.JPG"
@@ -733,7 +733,7 @@
  {
    "pro_cod": 11950,
    "pro_cod_ext1": 902010503,
-   "pro_descricao": "Camisa P�lo Azul - Suzano +",
+   "pro_descricao": "Camisa Polo Azul - Suzano +",
    "pontos": "150",
    "categoria": "Exclusividade Suzano",
    "imagem": "polosuzanonovo.JPG"
@@ -781,7 +781,7 @@
  {
    "pro_cod": 12278,
    "pro_cod_ext1": 902011091,
-   "pro_descricao": "Cr�dito de Combust�vel",
+   "pro_descricao": "Credito de Combust�vel",
    "pontos": "500",
    "categoria": "Vale Combust�vel",
    "imagem": "shellnovo2.JPG"
@@ -813,7 +813,7 @@
  {
    "pro_cod": 13467,
    "pro_cod_ext1": 902011123,
-   "pro_descricao": "Cd Jo�o Neto & Frederico - S� Mod�o",
+   "pro_descricao": "Cd Joao Neto & Frederico - S� Modao",
    "pontos": "85",
    "categoria": "CDs e DVDs",
    "imagem": "CDJOAONETOFREDERICO.JPG"
@@ -837,7 +837,7 @@
  {
    "pro_cod": 13506,
    "pro_cod_ext1": 902009653,
-   "pro_descricao": "Blu-ray Andr� Valad�o - Fortaleza - Ao Vivo",
+   "pro_descricao": "Blu-ray Andr� Valadao - Fortaleza - Ao Vivo",
    "pontos": "150",
    "categoria": "Desconto Exclusivo",
    "imagem": "BRANDREVALAD-SOMLIVRE.JPG"
@@ -881,7 +881,7 @@
  {
    "pro_cod": 13514,
    "pro_cod_ext1": 902010322,
-   "pro_descricao": "Livro A Estrat�gia Segundo Drucker",
+   "pro_descricao": "Livro A Estrategia Segundo Drucker",
    "pontos": "410",
    "categoria": "Desconto Exclusivo",
    "imagem": "DRUCKER.JPG"
@@ -889,7 +889,7 @@
  {
    "pro_cod": 13541,
    "pro_cod_ext1": 902011099,
-   "pro_descricao": "Etiquetadora De Pre�os Com 7 D�gitos 22 X 12mm",
+   "pro_descricao": "Etiquetadora De Precos Com 7 Digitos 22 X 12mm",
    "pontos": "430",
    "categoria": "Ferramentas",
    "imagem": "METIQ249201.JPG"
@@ -921,7 +921,7 @@
  {
    "pro_cod": 13714,
    "pro_cod_ext1": 902011639,
-   "pro_descricao": "Bola Futebol Campo Brasil Pr�",
+   "pro_descricao": "Bola Futebol Campo Brasil Pro",
    "pontos": "445",
    "categoria": "Esporte e Lazer",
    "imagem": "902011639.JPG"
@@ -929,7 +929,7 @@
  {
    "pro_cod": 13715,
    "pro_cod_ext1": 902011640,
-   "pro_descricao": "Bola Futebol Society Brasil Pr�",
+   "pro_descricao": "Bola Futebol Society Brasil Pro",
    "pontos": "525",
    "categoria": "Esporte e Lazer",
    "imagem": "902011640.JPG"
@@ -977,7 +977,7 @@
  {
    "pro_cod": 14217,
    "pro_cod_ext1": 902012301,
-   "pro_descricao": "M�quina De Caf� Profissional Nespresso Zenius 220v",
+   "pro_descricao": "Maquina De Caf� Profissional Nespresso Zenius 220v",
    "pontos": "7025",
    "categoria": "Eletroportáteis",
    "imagem": "ZENIUS.JPG"
@@ -993,7 +993,7 @@
  {
    "pro_cod": 15893,
    "pro_cod_ext1": 902012534,
-   "pro_descricao": "M�quina De Caf� Nespresso Pixie Clips Branca E Coral Neon 110v",
+   "pro_descricao": "Maquina De Caf� Nespresso Pixie Clips Branca E Coral Neon 110v",
    "pontos": "1795",
    "categoria": "Eletroportáteis",
    "imagem": "PIXIERED.JPG"
@@ -1033,7 +1033,7 @@
  {
    "pro_cod": 17436,
    "pro_cod_ext1": 902013373,
-   "pro_descricao": "Camisa P�lo Feminina Azul M - Suzano +",
+   "pro_descricao": "Camisa Polo Feminina Azul M - Suzano +",
    "pontos": "155",
    "categoria": "Exclusividade Suzano",
    "imagem": "polosuzanonovo.JPG"
@@ -1041,7 +1041,7 @@
  {
    "pro_cod": 17438,
    "pro_cod_ext1": 902013375,
-   "pro_descricao": "Camisa P�lo Feminina Azul GG - Suzano +",
+   "pro_descricao": "Camisa Polo Feminina Azul GG - Suzano +",
    "pontos": "155",
    "categoria": "Exclusividade Suzano",
    "imagem": "polosuzanonovo.JPG"
@@ -1049,7 +1049,7 @@
  {
    "pro_cod": 17465,
    "pro_cod_ext1": 902013372,
-   "pro_descricao": "Camisa P�lo Feminina Azul P - Suzano +",
+   "pro_descricao": "Camisa Polo Feminina Azul P - Suzano +",
    "pontos": "155",
    "categoria": "Exclusividade Suzano",
    "imagem": "polosuzanonovo.JPG"
@@ -1077,7 +1077,7 @@
  {
    "pro_cod": 17584,
    "pro_cod_ext1": 902010247,
-   "pro_descricao": "Livro Marketing 3.0 - As For�as Que Est�o Definindo O Novo Marketing Centrado No Ser Humano",
+   "pro_descricao": "Livro Marketing 3.0 - As For�as Que Estao Definindo O Novo Marketing Centrado No Ser Humano",
    "pontos": "365",
    "categoria": "Informacao e Cultura",
    "imagem": "MARKETING_3-0.JPG"
@@ -1209,7 +1209,7 @@
  {
    "pro_cod": 18214,
    "pro_cod_ext1": 902013834,
-   "pro_descricao": "C�psula Nespresso Profissional (M�quinas Zenius e Gemini Cs 223) - Espresso Leggero - 50 C�ps.",
+   "pro_descricao": "C�psula Nespresso Profissional (Maquinas Zenius e Gemini Cs 223) - Espresso Leggero - 50 C�ps.",
    "pontos": "425",
    "categoria": "Desconto Exclusivo",
    "imagem": "859083.JPG"
@@ -1217,7 +1217,7 @@
  {
    "pro_cod": 18302,
    "pro_cod_ext1": 902003346,
-   "pro_descricao": "Porta P�o Em Inox C/tampa Ps",
+   "pro_descricao": "Porta Pao Em Inox C/tampa Ps",
    "pontos": "775",
    "categoria": "Casa e Decoracao",
    "imagem": "2105-100.JPG"
@@ -1241,7 +1241,7 @@
  {
    "pro_cod": 18307,
    "pro_cod_ext1": 902009877,
-   "pro_descricao": "Bola De V�lei MG3600 ULTRA FUSION VI L",
+   "pro_descricao": "Bola De Volei MG3600 ULTRA FUSION VI L",
    "pontos": "195",
    "categoria": "Esporte e Lazer",
    "imagem": "902009877.JPG"
@@ -1297,7 +1297,7 @@
  {
    "pro_cod": 18633,
    "pro_cod_ext1": 902010321,
-   "pro_descricao": "Faqueiro - 38 P�s  Amalfi Branca",
+   "pro_descricao": "Faqueiro - 38 Pcs  Amalfi Branca",
    "pontos": "560",
    "categoria": "Casa e Decoracao",
    "imagem": "BIG23499873PDM001B.JPG"
@@ -1337,7 +1337,7 @@
  {
    "pro_cod": 19049,
    "pro_cod_ext1": 902014292,
-   "pro_descricao": "Relógio Feminino Casio Collection Anal�gico - Ltp-v001d-1budf",
+   "pro_descricao": "Relógio Feminino Casio Collection Analogico - Ltp-v001d-1budf",
    "pontos": "390",
    "categoria": "Acessórios",
    "imagem": "LTPV001D1BUDF.JPG"
@@ -1353,7 +1353,7 @@
  {
    "pro_cod": 19051,
    "pro_cod_ext1": 902014294,
-   "pro_descricao": "Relógio Feminino Casio Collection Anal�gico - Ltp-v001g-9budf",
+   "pro_descricao": "Relógio Feminino Casio Collection Analogico - Ltp-v001g-9budf",
    "pontos": "550",
    "categoria": "Acessórios",
    "imagem": "LTPV001G9BUDF.JPG"
@@ -1377,7 +1377,7 @@
  {
    "pro_cod": 19057,
    "pro_cod_ext1": 902014300,
-   "pro_descricao": "Relógio Masculino Casio Collection Anal�gico - Mtp-v001gl-7budf",
+   "pro_descricao": "Relógio Masculino Casio Collection Analogico - Mtp-v001gl-7budf",
    "pontos": "370",
    "categoria": "Acessórios",
    "imagem": "MTPV001GL7BUDF.JPG"
@@ -1401,7 +1401,7 @@
  {
    "pro_cod": 19062,
    "pro_cod_ext1": 902014305,
-   "pro_descricao": "Relógio Masculino Casio Collection Anal�gico - Mtp-v001sg-9budf",
+   "pro_descricao": "Relógio Masculino Casio Collection Analogico - Mtp-v001sg-9budf",
    "pontos": "530",
    "categoria": "Acessórios",
    "imagem": "MTPV001SG9BUDF.JPG"
@@ -1417,7 +1417,7 @@
  {
    "pro_cod": 19065,
    "pro_cod_ext1": 902014308,
-   "pro_descricao": "Relógio Masculino Casio Collection Anal�gico - Mtp-v001g-9budf",
+   "pro_descricao": "Relógio Masculino Casio Collection Analogico - Mtp-v001g-9budf",
    "pontos": "430",
    "categoria": "Acessórios",
    "imagem": "MTPV001G9BUDF.JPG"
@@ -1433,7 +1433,7 @@
  {
    "pro_cod": 19068,
    "pro_cod_ext1": 902014311,
-   "pro_descricao": "Relógio Masculino Casio Collection Anal�gico",
+   "pro_descricao": "Relógio Masculino Casio Collection Analogico",
    "pontos": "570",
    "categoria": "Acessórios",
    "imagem": "MTPV004SG9AUDF.JPG"
@@ -1441,7 +1441,7 @@
  {
    "pro_cod": 19073,
    "pro_cod_ext1": 902014316,
-   "pro_descricao": "Relógio Masculino Casio Anal�gico Digital - Aq-230a-7dmq",
+   "pro_descricao": "Relógio Masculino Casio Analogico Digital - Aq-230a-7dmq",
    "pontos": "735",
    "categoria": "Acessórios",
    "imagem": "902014316.JPG"
@@ -1481,7 +1481,7 @@
  {
    "pro_cod": 19080,
    "pro_cod_ext1": 902014323,
-   "pro_descricao": "Relógio Masculino Casio Anal�gico Digital - Aq-230ga-9bmq",
+   "pro_descricao": "Relógio Masculino Casio Analogico Digital - Aq-230ga-9bmq",
    "pontos": "830",
    "categoria": "Acessórios",
    "imagem": "AQ230GA9BMQ.JPG"
@@ -1553,7 +1553,7 @@
  {
    "pro_cod": 19091,
    "pro_cod_ext1": 902014334,
-   "pro_descricao": "Relógio Masculino G-shock Anal�gico Digital - Ga-100-1a4dr",
+   "pro_descricao": "Relógio Masculino G-shock Analogico Digital - Ga-100-1a4dr",
    "pontos": "1425",
    "categoria": "Acessórios",
    "imagem": "GA1001A4DR.JPG"
@@ -1561,7 +1561,7 @@
  {
    "pro_cod": 19093,
    "pro_cod_ext1": 902014336,
-   "pro_descricao": "Relógio Masculino G-shock Anal�gico Digital - Ga-100b-7adr",
+   "pro_descricao": "Relógio Masculino G-shock Analogico Digital - Ga-100b-7adr",
    "pontos": "1425",
    "categoria": "Acessórios",
    "imagem": "GA100B7ADR.JPG"
@@ -1569,7 +1569,7 @@
  {
    "pro_cod": 19096,
    "pro_cod_ext1": 902014339,
-   "pro_descricao": "Relógio Masculino G-shock Anal�gico Digital - Ga-120-1adr",
+   "pro_descricao": "Relógio Masculino G-shock Analogico Digital - Ga-120-1adr",
    "pontos": "2105",
    "categoria": "Acessórios",
    "imagem": "GA1201ADR.JPG"
@@ -1577,7 +1577,7 @@
  {
    "pro_cod": 19098,
    "pro_cod_ext1": 902014341,
-   "pro_descricao": "Relógio Masculino G-shock Anal�gico Digital - Ga-700-1adr",
+   "pro_descricao": "Relógio Masculino G-shock Analogico Digital - Ga-700-1adr",
    "pontos": "1825",
    "categoria": "Acessórios",
    "imagem": "GA7001ADR.JPG"
@@ -1585,7 +1585,7 @@
  {
    "pro_cod": 19099,
    "pro_cod_ext1": 902014342,
-   "pro_descricao": "Relógio Masculino G-shock Anal�gico Digital - Ga-700-2adr",
+   "pro_descricao": "Relógio Masculino G-shock Analogico Digital - Ga-700-2adr",
    "pontos": "1745",
    "categoria": "Acessórios",
    "imagem": "GA7002ADR.JPG"
@@ -1593,7 +1593,7 @@
  {
    "pro_cod": 19100,
    "pro_cod_ext1": 902014343,
-   "pro_descricao": "Relógio Masculino G-shock Anal�gico Digital - Ga-700-7adr",
+   "pro_descricao": "Relógio Masculino G-shock Analogico Digital - Ga-700-7adr",
    "pontos": "1745",
    "categoria": "Acessórios",
    "imagem": "GA7007ADR.JPG"
@@ -1601,7 +1601,7 @@
  {
    "pro_cod": 19101,
    "pro_cod_ext1": 902014344,
-   "pro_descricao": "Relógio Masculino G-shock Anal�gico Digital - Ga-710-1a2dr",
+   "pro_descricao": "Relógio Masculino G-shock Analogico Digital - Ga-710-1a2dr",
    "pontos": "1905",
    "categoria": "Acessórios",
    "imagem": "GA7101A2DR.JPG"
@@ -1673,7 +1673,7 @@
  {
    "pro_cod": 19750,
    "pro_cod_ext1": 902014792,
-   "pro_descricao": "Mouse Pad (unit�rio) - Suzano +",
+   "pro_descricao": "Mouse Pad (unitario) - Suzano +",
    "pontos": "75",
    "categoria": "Exclusividade Suzano",
    "imagem": "mousapadnovo2.JPG"
@@ -1681,7 +1681,7 @@
  {
    "pro_cod": 19784,
    "pro_cod_ext1": 902014813,
-   "pro_descricao": "Kit Camisa P�lo Feminina Azul G - 150 Unidades - Suzano +",
+   "pro_descricao": "Kit Camisa Polo Feminina Azul G - 150 Unidades - Suzano +",
    "pontos": "18305",
    "categoria": "Exclusividade Suzano",
    "imagem": "CAMISETA.JPG"
@@ -1691,7 +1691,7 @@
    "pro_cod_ext1": 902014814,
    "pro_descricao": "Kits (25",
    "pontos": " 50",
-   "categoria": " 100 E 150) Camisa P�lo Feminina Azul Gg - Suzano +",
+   "categoria": " 100 E 150) Camisa Polo Feminina Azul Gg - Suzano +",
    "imagem": "18305",
    "FIELD7": "Exclusividade Suzano",
    "FIELD8": "CAMISETA.JPG"
@@ -1701,7 +1701,7 @@
  {
    "pro_cod": 19846,
    "pro_cod_ext1": 902014834,
-   "pro_descricao": "M�quina De Caf� Nespresso Essenza Mini 220v - Cor: Branca",
+   "pro_descricao": "Maquina De Caf� Nespresso Essenza Mini 220v - Cor: Branca",
    "pontos": "1615",
    "categoria": "Eletroportáteis",
    "imagem": "ESSENZAWHITE.JPG"
@@ -1709,7 +1709,7 @@
  {
    "pro_cod": 19851,
    "pro_cod_ext1": 902014841,
-   "pro_descricao": "M�quina De Caf� Nespresso Essenza Mini & Aeroccino 110v - Cor: Vermelha",
+   "pro_descricao": "Maquina De Caf� Nespresso Essenza Mini & Aeroccino 110v - Cor: Vermelha",
    "pontos": "2255",
    "categoria": "Eletroportáteis",
    "imagem": "ESSENZACOMBORED.JPG"
@@ -1813,7 +1813,7 @@
  {
    "pro_cod": 21448,
    "pro_cod_ext1": 902015816,
-   "pro_descricao": "C�mera De Seguran�a Wi-fi Hd Mibo Ic3 - Bivolt",
+   "pro_descricao": "Camera De Seguranca Wi-fi Hd Mibo Ic3 - Bivolt",
    "pontos": "645",
    "categoria": "Eletronicos",
    "imagem": "IC3.JPG"
@@ -1821,7 +1821,7 @@
  {
    "pro_cod": 21449,
    "pro_cod_ext1": 902015817,
-   "pro_descricao": "C�mera De Seguran�a Wi-fi Hd Mibo Ic5 - Bivolt",
+   "pro_descricao": "Camera De Seguranca Wi-fi Hd Mibo Ic5 - Bivolt",
    "pontos": "1385",
    "categoria": "Eletronicos",
    "imagem": "IC5.JPG"
@@ -1829,7 +1829,7 @@
  {
    "pro_cod": 21452,
    "pro_cod_ext1": 902015820,
-   "pro_descricao": "C�mera Multi Hd Com Infravermelho 10 Metros 3",
+   "pro_descricao": "Camera Multi Hd Com Infravermelho 10 Metros 3",
    "pontos": "6mm - VHD 1010 B G4 - Bivolt 12v",
    "categoria": "285",
    "imagem": "Eletronicos",
@@ -1841,7 +1841,7 @@
  {
    "pro_cod": 21453,
    "pro_cod_ext1": 902015821,
-   "pro_descricao": "C�mera Multi Hd Com Infravermelho Dome 10 Metros 3",
+   "pro_descricao": "Camera Multi Hd Com Infravermelho Dome 10 Metros 3",
    "pontos": "6mm - Vhd 1010 D - Bivolt 12v",
    "categoria": "280",
    "imagem": "Eletronicos",
@@ -1909,7 +1909,7 @@
  {
    "pro_cod": 21484,
    "pro_cod_ext1": 902015842,
-   "pro_descricao": "Relógio Masculino G-shock Anal�gico Digital - GA-100-1A4DR",
+   "pro_descricao": "Relógio Masculino G-shock Analogico Digital - GA-100-1A4DR",
    "pontos": "1425",
    "categoria": "Acessórios",
    "imagem": "GA1001A2JFDR.JPG"
@@ -1917,7 +1917,7 @@
  {
    "pro_cod": 21537,
    "pro_cod_ext1": 902015454,
-   "pro_descricao": "Forno El�trico 9 Litros Black & Decker Ft95 - 110V",
+   "pro_descricao": "Forno Eletrico 9 Litros Black & Decker Ft95 - 110V",
    "pontos": "475",
    "categoria": "Eletroportáteis",
    "imagem": "FT95.JPG"
@@ -1949,7 +1949,7 @@
  {
    "pro_cod": 21598,
    "pro_cod_ext1": 902016000,
-   "pro_descricao": "Forno El�trico 21l Black & Decker Ft21 - 110v",
+   "pro_descricao": "Forno Eletrico 21l Black & Decker Ft21 - 110v",
    "pontos": "900",
    "categoria": "Eletroportáteis",
    "imagem": "FT21.JPG"
@@ -1957,7 +1957,7 @@
  {
    "pro_cod": 21648,
    "pro_cod_ext1": 902014729,
-   "pro_descricao": "Cafeteira 30 Caf�s Black & Decker Cm301 - 220V",
+   "pro_descricao": "Cafeteira 30 Cafes Black & Decker Cm301 - 220V",
    "pontos": "360",
    "categoria": "Eletroportáteis",
    "imagem": "CM301.JPG"
@@ -1965,7 +1965,7 @@
  {
    "pro_cod": 21658,
    "pro_cod_ext1": 902015866,
-   "pro_descricao": "Serra M�rmore Bosch Gdc 150 Titan Professional - 127v",
+   "pro_descricao": "Serra Marmore Bosch Gdc 150 Titan Professional - 127v",
    "pontos": "1195",
    "categoria": "Ferramentas",
    "imagem": "06015486D0.JPG"
@@ -1973,7 +1973,7 @@
  {
    "pro_cod": 21659,
    "pro_cod_ext1": 902015867,
-   "pro_descricao": "Serra M�rmore Bosch Gdc 150 Titan Professional - 220v",
+   "pro_descricao": "Serra Marmore Bosch Gdc 150 Titan Professional - 220v",
    "pontos": "1195",
    "categoria": "Ferramentas",
    "imagem": "06015486D0.JPG"
@@ -2113,7 +2113,7 @@
  {
    "pro_cod": 22136,
    "pro_cod_ext1": 902009498,
-   "pro_descricao": "Colch�o Multiuso Solteiro",
+   "pro_descricao": "Colchao Multiuso Solteiro",
    "pontos": "225",
    "categoria": "Esporte e Lazer",
    "imagem": "COLCHAOMULTOLTEIRO-MOR.JPG"
@@ -3989,7 +3989,7 @@
  {
    "pro_cod": 23345,
    "pro_cod_ext1": 902016496,
-   "pro_descricao": "Cafeteira El�trica Brit�nia Bcf 18i - 220v",
+   "pro_descricao": "Cafeteira Eletrica Brit�nia Bcf 18i - 220v",
    "pontos": "280",
    "categoria": "Eletroportáteis",
    "imagem": "063901086.JPG"
@@ -4037,7 +4037,7 @@
  {
    "pro_cod": 23371,
    "pro_cod_ext1": 902016549,
-   "pro_descricao": "Prancha Titanium Brit�nia Blue - Bivolt",
+   "pro_descricao": "Prancha Titanium Britania Blue - Bivolt",
    "pontos": "305",
    "categoria": "Eletroportáteis",
    "imagem": "066003034.JPG"
@@ -4053,7 +4053,7 @@
  {
    "pro_cod": 23422,
    "pro_cod_ext1": 902016814,
-   "pro_descricao": "Frigideira 40 Maxxi Gourmet Com Al�a",
+   "pro_descricao": "Frigideira 40 Maxxi Gourmet Com Alca",
    "pontos": "300",
    "categoria": "Casa e Decoracao",
    "imagem": "761024e761030.JPG"
@@ -4101,7 +4101,7 @@
  {
    "pro_cod": 23432,
    "pro_cod_ext1": 902015266,
-   "pro_descricao": "Di�ria de Locacao de Carro - Grupo FX - Sedan Autom�tico",
+   "pro_descricao": "Diaria de Locacao de Carro - Grupo FX - Sedan Automatico",
    "pontos": "645",
    "categoria": "Locacao De Carros",
    "imagem": "MOVIDA.JPG"
@@ -4109,7 +4109,7 @@
  {
    "pro_cod": 23433,
    "pro_cod_ext1": 902015267,
-   "pro_descricao": "Di�ria de Locacao de Carro - Grupo G - SUV Manual",
+   "pro_descricao": "Diaria de Locacao de Carro - Grupo G - SUV Manual",
    "pontos": "645",
    "categoria": "Locacao De Carros",
    "imagem": "MOVIDA.JPG"
@@ -4117,7 +4117,7 @@
  {
    "pro_cod": 23434,
    "pro_cod_ext1": 902015268,
-   "pro_descricao": "Di�ria de Locacao de Carro - Grupo K - Minivan Autom�tica",
+   "pro_descricao": "Diaria de Locacao de Carro - Grupo K - Minivan Autom�tica",
    "pontos": "850",
    "categoria": "Locacao De Carros",
    "imagem": "MOVIDA.JPG"
@@ -4125,7 +4125,7 @@
  {
    "pro_cod": 23663,
    "pro_cod_ext1": 902017165,
-   "pro_descricao": "M�quina De Caf� Nespresso Essenza Mini 110v - Cinza.",
+   "pro_descricao": "Maquina De Caf� Nespresso Essenza Mini 110v - Cinza.",
    "pontos": "1455",
    "categoria": "Eletroportáteis",
    "imagem": "ESSENZAGREY.JPG"
@@ -4133,7 +4133,7 @@
  {
    "pro_cod": 23664,
    "pro_cod_ext1": 902017166,
-   "pro_descricao": "M�quina De Caf� Nespresso Essenza Mini 220v - Cinza.",
+   "pro_descricao": "Maquina De Caf� Nespresso Essenza Mini 220v - Cinza.",
    "pontos": "1455",
    "categoria": "Eletroportáteis",
    "imagem": "ESSENZAGREY.JPG"
@@ -4141,7 +4141,7 @@
  {
    "pro_cod": 23718,
    "pro_cod_ext1": 902004111,
-   "pro_descricao": "C�mera Digital Samsung ES95",
+   "pro_descricao": "Camera Digital Samsung ES95",
    "pontos": "1470",
    "categoria": "Eletronicos",
    "imagem": "CAMERA DIGITAL.JPG"
@@ -4157,7 +4157,7 @@
  {
    "pro_cod": 23720,
    "pro_cod_ext1": 902005230,
-   "pro_descricao": "Lixeira A�o Inox Automatica Com Sensor 30l",
+   "pro_descricao": "Lixeira Aao Inox Automatica Com Sensor 30l",
    "pontos": "1450",
    "categoria": "Casa e Decoracao",
    "imagem": "LIXEIRA ACO INOX AUTOMATICA COM SENSOR 30L.JPG"
@@ -4181,7 +4181,7 @@
  {
    "pro_cod": 23729,
    "pro_cod_ext1": 902007756,
-   "pro_descricao": "Tela De Projecao 150pol El�trica Com Controle Remoto",
+   "pro_descricao": "Tela De Projecao 150pol Eletrica Com Controle Remoto",
    "pontos": "7100",
    "categoria": "Desconto Exclusivo",
    "imagem": "TELA DE PROJECAO 150POL ELETRICA COM CONTROLE REMOTO.JPG"
@@ -4225,7 +4225,7 @@
  {
    "pro_cod": 23807,
    "pro_cod_ext1": 902017171,
-   "pro_descricao": "Canivete Victorinox Climber - 14 Fun��es",
+   "pro_descricao": "Canivete Victorinox Climber - 14 Funcoes",
    "pontos": "530",
    "categoria": "Mês dos Pais",
    "imagem": "13703.JPG"
@@ -4473,7 +4473,7 @@
  {
    "pro_cod": 24335,
    "pro_cod_ext1": 902017510,
-   "pro_descricao": "M�dulo Interno Para Porteiro Eletr�nico Da Linha 8000 E 8010 - Bivolt",
+   "pro_descricao": "M�dulo Interno Para Porteiro Eletronico Da Linha 8000 E 8010 - Bivolt",
    "pontos": "255",
    "categoria": "Eletronicos",
    "imagem": "IPR8000IN.JPG"
@@ -4529,7 +4529,7 @@
  {
    "pro_cod": 24342,
    "pro_cod_ext1": 902017517,
-   "pro_descricao": "M�dulo Interno Para Videoporteiro Linha Ivr - Bivolt",
+   "pro_descricao": "Modulo Interno Para Videoporteiro Linha Ivr - Bivolt",
    "pontos": "1220",
    "categoria": "Eletronicos",
    "imagem": "IVR1010IN.JPG"
@@ -4537,7 +4537,7 @@
  {
    "pro_cod": 24343,
    "pro_cod_ext1": 902017518,
-   "pro_descricao": "Extens�o De �udio De Porteiros E Videoporteiros Da Linha 1010 - Bivolt",
+   "pro_descricao": "Extensao De Audio De Porteiros E Videoporteiros Da Linha 1010 - Bivolt",
    "pontos": "225",
    "categoria": "Eletronicos",
    "imagem": "1010EA.JPG"
@@ -4545,7 +4545,7 @@
  {
    "pro_cod": 24344,
    "pro_cod_ext1": 902017544,
-   "pro_descricao": "Comunicação Telef�nica Para Microempresa - Minicom",
+   "pro_descricao": "Comunicação Telefonica Para Microempresa - Minicom",
    "pontos": "1455",
    "categoria": "Eletronicos",
    "imagem": "MINICOM.JPG"
@@ -4553,7 +4553,7 @@
  {
    "pro_cod": 24346,
    "pro_cod_ext1": 902017523,
-   "pro_descricao": "Lego Caminh�o De Resgate - Linha Juniors Jurassic",
+   "pro_descricao": "Lego Caminhao De Resgate - Linha Juniors Jurassic",
    "pontos": "420",
    "categoria": "Infantil",
    "imagem": "10757L.JPG"
@@ -4561,7 +4561,7 @@
  {
    "pro_cod": 24349,
    "pro_cod_ext1": 902017526,
-   "pro_descricao": "Lego Avi�o De Acrobacias Ousadas - Linha Creator",
+   "pro_descricao": "Lego Aviao De Acrobacias Ousadas - Linha Creator",
    "pontos": "305",
    "categoria": "Infantil",
    "imagem": "31076L.JPG"
@@ -4665,7 +4665,7 @@
  {
    "pro_cod": 25197,
    "pro_cod_ext1": 902018314,
-   "pro_descricao": "Mochila Com Porta Notebook (unit�rio) - Suzano+",
+   "pro_descricao": "Mochila Com Porta Notebook (unitario) - Suzano+",
    "pontos": "620",
    "categoria": "Exclusividade Suzano",
    "imagem": "MOCHILASUZANO.JPG"
@@ -4673,7 +4673,7 @@
  {
    "pro_cod": 25198,
    "pro_cod_ext1": 902018319,
-   "pro_descricao": "Sacola Algod�o - Suzano+",
+   "pro_descricao": "Sacola Algodao - Suzano+",
    "pontos": "8710",
    "categoria": "Exclusividade Suzano",
    "imagem": "SACOLASUZANO.JPG"
@@ -4681,7 +4681,7 @@
  {
    "pro_cod": 25199,
    "pro_cod_ext1": 902018320,
-   "pro_descricao": "Sacola Algod�o (unit�rio) - Suzano+",
+   "pro_descricao": "Sacola Algodao (unitario) - Suzano+",
    "pontos": "90",
    "categoria": "Exclusividade Suzano",
    "imagem": "SACOLASUZANO.JPG"
@@ -4697,7 +4697,7 @@
  {
    "pro_cod": 25201,
    "pro_cod_ext1": 902018326,
-   "pro_descricao": "Pasta (unit�rio) - Suzano+",
+   "pro_descricao": "Pasta (unitario) - Suzano+",
    "pontos": "95",
    "categoria": "Exclusividade Suzano",
    "imagem": "PASTATIRASUZANO.JPG"
@@ -4713,7 +4713,7 @@
  {
    "pro_cod": 25203,
    "pro_cod_ext1": 902018332,
-   "pro_descricao": "Caneta Laser Com Estojo De Madeira (unit�rio) - Suzano+",
+   "pro_descricao": "Caneta Laser Com Estojo De Madeira (unitario) - Suzano+",
    "pontos": "80",
    "categoria": "Exclusividade Suzano",
    "imagem": "CANELASUZA.JPG"
@@ -4729,7 +4729,7 @@
  {
    "pro_cod": 25205,
    "pro_cod_ext1": 902018338,
-   "pro_descricao": "Pendrive Chaveiro 4gb C/ Capa De Couro (unit�rio) - Suzano+",
+   "pro_descricao": "Pendrive Chaveiro 4gb C/ Capa De Couro (unitario) - Suzano+",
    "pontos": "260",
    "categoria": "Exclusividade Suzano",
    "imagem": "PENDRIVECOUROSUZANO.JPG"
@@ -4745,7 +4745,7 @@
  {
    "pro_cod": 25207,
    "pro_cod_ext1": 902018344,
-   "pro_descricao": "Trena Chaveiro (unit�rio) - Suzano+",
+   "pro_descricao": "Trena Chaveiro (unitario) - Suzano+",
    "pontos": "45",
    "categoria": "Exclusividade Suzano",
    "imagem": "TRENACHAVEIRSUZANO.JPG"
@@ -4761,7 +4761,7 @@
  {
    "pro_cod": 25209,
    "pro_cod_ext1": 902018350,
-   "pro_descricao": "Calculadora Emborrachada (unit�rio) - Suzano+",
+   "pro_descricao": "Calculadora Emborrachada (unitario) - Suzano+",
    "pontos": "70",
    "categoria": "Exclusividade Suzano",
    "imagem": "CALCULADORAEMSUZZANO.JPG"
@@ -4777,7 +4777,7 @@
  {
    "pro_cod": 25211,
    "pro_cod_ext1": 902018366,
-   "pro_descricao": "Jaleco (unit�rio) - Suzano+",
+   "pro_descricao": "Jaleco (unitario) - Suzano+",
    "pontos": "28875",
    "categoria": "Exclusividade Suzano",
    "imagem": "JALECOSUZANO.JPG"
@@ -4793,7 +4793,7 @@
  {
    "pro_cod": 25221,
    "pro_cod_ext1": 902018400,
-   "pro_descricao": "Bon� - Suzano+",
+   "pro_descricao": "Bone - Suzano+",
    "pontos": "5815",
    "categoria": "Exclusividade Suzano",
    "imagem": "BONE2SUZANO.JPG"
@@ -4837,7 +4837,7 @@
  {
    "pro_cod": 25227,
    "pro_cod_ext1": 902018321,
-   "pro_descricao": "Kits Sacola Algod�o (50",
+   "pro_descricao": "Kits Sacola Algodao (50",
    "pontos": " 100 E 150 Unidades) - Suzano+",
    "categoria": "8710",
    "imagem": "Exclusividade Suzano",
@@ -4849,7 +4849,7 @@
  {
    "pro_cod": 25228,
    "pro_cod_ext1": 902018322,
-   "pro_descricao": "Kit Sacola Algod�o - 50 Unidades - Suzano+",
+   "pro_descricao": "Kit Sacola Algodao - 50 Unidades - Suzano+",
    "pontos": "2935",
    "categoria": "Exclusividade Suzano",
    "imagem": "SACOLASUZANO.JPG"
@@ -4857,7 +4857,7 @@
  {
    "pro_cod": 25229,
    "pro_cod_ext1": 902018323,
-   "pro_descricao": "Kit Sacola Algod�o - 100 Unidades - Suzano+",
+   "pro_descricao": "Kit Sacola Algodao - 100 Unidades - Suzano+",
    "pontos": "5830",
    "categoria": "Exclusividade Suzano",
    "imagem": "SACOLASUZANO.JPG"
@@ -4865,7 +4865,7 @@
  {
    "pro_cod": 25230,
    "pro_cod_ext1": 902018324,
-   "pro_descricao": "Kit Sacola Algod�o - 150 Unidades - Suzano+",
+   "pro_descricao": "Kit Sacola Algodao - 150 Unidades - Suzano+",
    "pontos": "8740",
    "categoria": "Exclusividade Suzano",
    "imagem": "SACOLASUZANO.JPG"
@@ -5305,7 +5305,7 @@
  {
    "pro_cod": 25285,
    "pro_cod_ext1": 902018402,
-   "pro_descricao": "Kits Bon� (50",
+   "pro_descricao": "Kits Bone (50",
    "pontos": " 100 E 150 Unidades) - Suzano+",
    "categoria": "5815",
    "imagem": "Exclusividade Suzano",
@@ -5317,7 +5317,7 @@
  {
    "pro_cod": 25286,
    "pro_cod_ext1": 902018403,
-   "pro_descricao": "Kit Bon� - 50 Unidades - Suzano+",
+   "pro_descricao": "Kit Bone - 50 Unidades - Suzano+",
    "pontos": "2010",
    "categoria": "Exclusividade Suzano",
    "imagem": "BONE2SUZANO.JPG"
@@ -5325,7 +5325,7 @@
  {
    "pro_cod": 25287,
    "pro_cod_ext1": 902018404,
-   "pro_descricao": "Kit Bon� - 100 Unidades - Suzano+",
+   "pro_descricao": "Kit Bone - 100 Unidades - Suzano+",
    "pontos": "3265",
    "categoria": "Exclusividade Suzano",
    "imagem": "BONE2SUZANO.JPG"
@@ -5333,7 +5333,7 @@
  {
    "pro_cod": 25288,
    "pro_cod_ext1": 902018405,
-   "pro_descricao": "Kit Bon� - 150 Unidades - Suzano+",
+   "pro_descricao": "Kit Bone - 150 Unidades - Suzano+",
    "pontos": "4895",
    "categoria": "Exclusividade Suzano",
    "imagem": "BONE2SUZANO.JPG"
@@ -5377,7 +5377,7 @@
  {
    "pro_cod": 25293,
    "pro_cod_ext1": 902018410,
-   "pro_descricao": "Kits Sacola Algod�o Personalizada (50",
+   "pro_descricao": "Kits Sacola Algodao Personalizada (50",
    "pontos": " 100 E 150 Unidades) - Suzano+",
    "categoria": "115",
    "imagem": "Personalizados Com Logo De Sua Loja",
@@ -5389,7 +5389,7 @@
  {
    "pro_cod": 25294,
    "pro_cod_ext1": 902018411,
-   "pro_descricao": "Kit Sacola Algod�o Personalizada - 50 Unidades - Suzano+",
+   "pro_descricao": "Kit Sacola Algodao Personalizada - 50 Unidades - Suzano+",
    "pontos": "4245",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "SACOLASUZANOPERSO.JPG"
@@ -5397,7 +5397,7 @@
  {
    "pro_cod": 25295,
    "pro_cod_ext1": 902018412,
-   "pro_descricao": "Kit Sacola Algod�o Personalizada - 100 Unidades - Suzano+",
+   "pro_descricao": "Kit Sacola Algodao Personalizada - 100 Unidades - Suzano+",
    "pontos": "8450",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "SACOLASUZANOPERSO.JPG"
@@ -5405,7 +5405,7 @@
  {
    "pro_cod": 25296,
    "pro_cod_ext1": 902018413,
-   "pro_descricao": "Kit Sacola Algod�o Personalizada - 150 Unidades - Suzano+",
+   "pro_descricao": "Kit Sacola Algodao Personalizada - 150 Unidades - Suzano+",
    "pontos": "12670",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "SACOLASUZANOPERSO.JPG"
@@ -5745,7 +5745,7 @@
  {
    "pro_cod": 25344,
    "pro_cod_ext1": 902018461,
-   "pro_descricao": "Kits Bon� Personalizado (100 E 150 Unidades) - Suzano+",
+   "pro_descricao": "Kits Bone Personalizado (100 E 150 Unidades) - Suzano+",
    "pontos": "70",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "BONE2SUZANOPERSO.JPG"
@@ -5753,7 +5753,7 @@
  {
    "pro_cod": 25345,
    "pro_cod_ext1": 902018462,
-   "pro_descricao": "Kit Bon� Personalizado - 100 Unidades - Suzano+",
+   "pro_descricao": "Kit Bone Personalizado - 100 Unidades - Suzano+",
    "pontos": "4380",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "BONE2SUZANOPERSO.JPG"
@@ -5761,7 +5761,7 @@
  {
    "pro_cod": 25346,
    "pro_cod_ext1": 902018463,
-   "pro_descricao": "Kit Bon� Personalizado - 150 Unidades - Suzano+",
+   "pro_descricao": "Kit Bone Personalizado - 150 Unidades - Suzano+",
    "pontos": "6565",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "BONE2SUZANOPERSO.JPG"
@@ -6081,7 +6081,7 @@
  {
    "pro_cod": 25946,
    "pro_cod_ext1": 902018254,
-   "pro_descricao": "Arquivo Em A�o 4 Gavetas Plus",
+   "pro_descricao": "Arquivo Em Aao 4 Gavetas Plus",
    "pontos": "2430",
    "categoria": "Mobiliario",
    "imagem": "PlusO4gaveteiro .JPG"
@@ -6113,7 +6113,7 @@
  {
    "pro_cod": 26235,
    "pro_cod_ext1": 902018909,
-   "pro_descricao": "Bon� Branco Novo Logo Suzano+ (unit�rio)",
+   "pro_descricao": "Bone Branco Novo Logo Suzano+ (unitario)",
    "pontos": "70",
    "categoria": "Exclusividade Suzano",
    "imagem": "BONENOVOSUBRANCNOAZUL.JPG"
@@ -6123,7 +6123,7 @@
    "pro_cod_ext1": 902018903,
    "pro_descricao": "Kits (25",
    "pontos": " 50",
-   "categoria": " 100 E 150) Bon� Azul Novo Logo Suzano+",
+   "categoria": " 100 E 150) Bone Azul Novo Logo Suzano+",
    "imagem": "6240",
    "FIELD7": "Exclusividade Suzano",
    "FIELD8": "BONENOVOSUZANOAZUL.JPG"
@@ -6133,7 +6133,7 @@
  {
    "pro_cod": 26237,
    "pro_cod_ext1": 902018904,
-   "pro_descricao": "Kit Bon� Azul Novo Logo Suzano+ - 25 Unidades",
+   "pro_descricao": "Kit Bone Azul Novo Logo Suzano+ - 25 Unidades",
    "pontos": "1075",
    "categoria": "Exclusividade Suzano",
    "imagem": "BONENOVOSUZANOAZUL.JPG"
@@ -6141,7 +6141,7 @@
  {
    "pro_cod": 26238,
    "pro_cod_ext1": 902018905,
-   "pro_descricao": "Kit Bon� Azul Novo Logo Suzano+ - 50 Unidades",
+   "pro_descricao": "Kit Bone Azul Novo Logo Suzano+ - 50 Unidades",
    "pontos": "2110",
    "categoria": "Exclusividade Suzano",
    "imagem": "BONENOVOSUZANOAZUL.JPG"
@@ -6149,7 +6149,7 @@
  {
    "pro_cod": 26239,
    "pro_cod_ext1": 902018906,
-   "pro_descricao": "Kit Bon� Azul Novo Logo Suzano+ - 100 Unidades",
+   "pro_descricao": "Kit Bone Azul Novo Logo Suzano+ - 100 Unidades",
    "pontos": "4185",
    "categoria": "Exclusividade Suzano",
    "imagem": "BONENOVOSUZANOAZUL.JPG"
@@ -6157,7 +6157,7 @@
  {
    "pro_cod": 26240,
    "pro_cod_ext1": 902018907,
-   "pro_descricao": "Kit Bon� Azul Novo Logo Suzano+ - 150 Unidades",
+   "pro_descricao": "Kit Bone Azul Novo Logo Suzano+ - 150 Unidades",
    "pontos": "6255",
    "categoria": "Exclusividade Suzano",
    "imagem": "BONENOVOSUZANOAZUL.JPG"
@@ -6167,7 +6167,7 @@
    "pro_cod_ext1": 902018910,
    "pro_descricao": "Kits (25",
    "pontos": " 50",
-   "categoria": " 100 E 150) Bon� Branco Novo Logo Suzano+",
+   "categoria": " 100 E 150) Bone Branco Novo Logo Suzano+",
    "imagem": "6240",
    "FIELD7": "Exclusividade Suzano",
    "FIELD8": "BONENOVOSUBRANCNOAZUL.JPG"
@@ -6177,7 +6177,7 @@
  {
    "pro_cod": 26242,
    "pro_cod_ext1": 902018911,
-   "pro_descricao": "Kit Bon� Branco Novo Logo Suzano+ - 25 Unidades",
+   "pro_descricao": "Kit Bone Branco Novo Logo Suzano+ - 25 Unidades",
    "pontos": "1075",
    "categoria": "Exclusividade Suzano",
    "imagem": "BONENOVOSUBRANCNOAZUL.JPG"
@@ -6185,7 +6185,7 @@
  {
    "pro_cod": 26243,
    "pro_cod_ext1": 902018912,
-   "pro_descricao": "Kit Bon� Branco Novo Logo Suzano+ - 50 Unidades",
+   "pro_descricao": "Kit Bone Branco Novo Logo Suzano+ - 50 Unidades",
    "pontos": "2110",
    "categoria": "Exclusividade Suzano",
    "imagem": "BONENOVOSUBRANCNOAZUL.JPG"
@@ -6193,7 +6193,7 @@
  {
    "pro_cod": 26244,
    "pro_cod_ext1": 902018913,
-   "pro_descricao": "Kit Bon� Branco Novo Logo Suzano+ - 100 Unidades",
+   "pro_descricao": "Kit Bone Branco Novo Logo Suzano+ - 100 Unidades",
    "pontos": "4185",
    "categoria": "Exclusividade Suzano",
    "imagem": "BONENOVOSUBRANCNOAZUL.JPG"
@@ -6201,7 +6201,7 @@
  {
    "pro_cod": 26245,
    "pro_cod_ext1": 902018914,
-   "pro_descricao": "Kit Bon� Branco Novo Logo Suzano+ - 150 Unidades",
+   "pro_descricao": "Kit Bone Branco Novo Logo Suzano+ - 150 Unidades",
    "pontos": "6255",
    "categoria": "Exclusividade Suzano",
    "imagem": "BONENOVOSUBRANCNOAZUL.JPG"
@@ -6209,7 +6209,7 @@
  {
    "pro_cod": 26246,
    "pro_cod_ext1": 902019045,
-   "pro_descricao": "Bon� Azul Novo Logo Suzano+ Personalizado",
+   "pro_descricao": "Bone Azul Novo Logo Suzano+ Personalizado",
    "pontos": "6240",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "BONENOVOSUZANOAZUL.JPG"
@@ -6219,7 +6219,7 @@
    "pro_cod_ext1": 902019047,
    "pro_descricao": "Kits (25",
    "pontos": " 50",
-   "categoria": " 100 E 150) Bon� Azul Novo Logo Suzano+ Personalizado",
+   "categoria": " 100 E 150) Bone Azul Novo Logo Suzano+ Personalizado",
    "imagem": "6240",
    "FIELD7": "Personalizados Com Logo De Sua Loja",
    "FIELD8": "BONENOVOSUZANOAZUL.JPG"
@@ -6229,7 +6229,7 @@
  {
    "pro_cod": 26248,
    "pro_cod_ext1": 902019048,
-   "pro_descricao": "Kit Bon� Azul Novo Logo Suzano+ Personalizado - 25 Unidades",
+   "pro_descricao": "Kit Bone Azul Novo Logo Suzano+ Personalizado - 25 Unidades",
    "pontos": "1075",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "BONENOVOSUZANOAZUL.JPG"
@@ -6237,7 +6237,7 @@
  {
    "pro_cod": 26249,
    "pro_cod_ext1": 902019049,
-   "pro_descricao": "Kit Bon� Azul Novo Logo Suzano+ Personalizado - 50 Unidades",
+   "pro_descricao": "Kit Bone Azul Novo Logo Suzano+ Personalizado - 50 Unidades",
    "pontos": "2110",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "BONENOVOSUZANOAZUL.JPG"
@@ -6245,7 +6245,7 @@
  {
    "pro_cod": 26250,
    "pro_cod_ext1": 902019050,
-   "pro_descricao": "Kit Bon� Azul Novo Logo Suzano+ Personalizado - 100 Unidades",
+   "pro_descricao": "Kit Bone Azul Novo Logo Suzano+ Personalizado - 100 Unidades",
    "pontos": "4185",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "BONENOVOSUZANOAZUL.JPG"
@@ -6253,7 +6253,7 @@
  {
    "pro_cod": 26251,
    "pro_cod_ext1": 902019051,
-   "pro_descricao": "Kit Bon� Azul Novo Logo Suzano+ Personalizado - 150 Unidades",
+   "pro_descricao": "Kit Bone Azul Novo Logo Suzano+ Personalizado - 150 Unidades",
    "pontos": "6255",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "BONENOVOSUZANOAZUL.JPG"
@@ -6261,7 +6261,7 @@
  {
    "pro_cod": 26252,
    "pro_cod_ext1": 902019052,
-   "pro_descricao": "Bon� Branco Novo Logo Suzano+ Personalizado",
+   "pro_descricao": "Bone Branco Novo Logo Suzano+ Personalizado",
    "pontos": "6240",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "BONENOVOSUBRANCNOAZUL.JPG"
@@ -6271,7 +6271,7 @@
    "pro_cod_ext1": 902019054,
    "pro_descricao": "Kits (25",
    "pontos": " 50",
-   "categoria": " 100 E 150) Bon� Branco Novo Logo Suzano+ Personalizado",
+   "categoria": " 100 E 150) Bone Branco Novo Logo Suzano+ Personalizado",
    "imagem": "6240",
    "FIELD7": "Personalizados Com Logo De Sua Loja",
    "FIELD8": "BONENOVOSUBRANCNOAZUL.JPG"
@@ -6281,7 +6281,7 @@
  {
    "pro_cod": 26254,
    "pro_cod_ext1": 902019055,
-   "pro_descricao": "Kit Bon� Branco Novo Logo Suzano+ Personalizado - 25 Unidades",
+   "pro_descricao": "Kit Bone Branco Novo Logo Suzano+ Personalizado - 25 Unidades",
    "pontos": "1075",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "BONENOVOSUBRANCNOAZUL.JPG"
@@ -6289,7 +6289,7 @@
  {
    "pro_cod": 26255,
    "pro_cod_ext1": 902019056,
-   "pro_descricao": "Kit Bon� Branco Novo Logo Suzano+ Personalizado - 50 Unidades",
+   "pro_descricao": "Kit Bone Branco Novo Logo Suzano+ Personalizado - 50 Unidades",
    "pontos": "2110",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "BONENOVOSUBRANCNOAZUL.JPG"
@@ -6297,7 +6297,7 @@
  {
    "pro_cod": 26256,
    "pro_cod_ext1": 902019057,
-   "pro_descricao": "Kit Bon� Branco Novo Logo Suzano+ Personalizado - 100 Unidades",
+   "pro_descricao": "Kit Bone Branco Novo Logo Suzano+ Personalizado - 100 Unidades",
    "pontos": "4185",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "BONENOVOSUBRANCNOAZUL.JPG"
@@ -6305,7 +6305,7 @@
  {
    "pro_cod": 26257,
    "pro_cod_ext1": 902019058,
-   "pro_descricao": "Kit Bon� Branco Novo Logo Suzano+ Personalizado - 150 Unidades",
+   "pro_descricao": "Kit Bone Branco Novo Logo Suzano+ Personalizado - 150 Unidades",
    "pontos": "6255",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "BONENOVOSUBRANCNOAZUL.JPG"
@@ -6321,7 +6321,7 @@
  {
    "pro_cod": 26259,
    "pro_cod_ext1": 902018916,
-   "pro_descricao": "Camiseta Branca Suzano+ - Gola E Manga Azul (unit�rio)",
+   "pro_descricao": "Camiseta Branca Suzano+ - Gola E Manga Azul (unitario)",
    "pontos": "11945",
    "categoria": "Exclusividade Suzano",
    "imagem": "CAMISEBRAGOLAAZUL.JPG"
@@ -6361,7 +6361,7 @@
  {
    "pro_cod": 26265,
    "pro_cod_ext1": 902018942,
-   "pro_descricao": "Camiseta Branca Suzano+ - Gola E Manga Verde (unit�rio)",
+   "pro_descricao": "Camiseta Branca Suzano+ - Gola E Manga Verde (unitario)",
    "pontos": "11945",
    "categoria": "Exclusividade Suzano",
    "imagem": "CAMISEBRAGOLAVERDE.JPG"
@@ -6377,7 +6377,7 @@
  {
    "pro_cod": 26271,
    "pro_cod_ext1": 902018968,
-   "pro_descricao": "Camiseta Azul Suzano+ - Gola E Manga Verde (unit�rio)",
+   "pro_descricao": "Camiseta Azul Suzano+ - Gola E Manga Verde (unitario)",
    "pontos": "13155",
    "categoria": "Exclusividade Suzano",
    "imagem": "CAMISEAZUGOLAVER.JPG"
@@ -6409,7 +6409,7 @@
  {
    "pro_cod": 26276,
    "pro_cod_ext1": 902018993,
-   "pro_descricao": "Camisa P�lo Branca Suzano+ - Manga Azul",
+   "pro_descricao": "Camisa Polo Branca Suzano+ - Manga Azul",
    "pontos": "20680",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -6417,7 +6417,7 @@
  {
    "pro_cod": 26277,
    "pro_cod_ext1": 902018994,
-   "pro_descricao": "Camisa P�lo Branca Suzano+ - Manga Azul (unit�rio)",
+   "pro_descricao": "Camisa Polo Branca Suzano+ - Manga Azul (unitario)",
    "pontos": "20680",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -6425,7 +6425,7 @@
  {
    "pro_cod": 26278,
    "pro_cod_ext1": 902018995,
-   "pro_descricao": "Camisa P�lo Branca Suzano+ - Manga Azul - Tamanho P",
+   "pro_descricao": "Camisa Polo Branca Suzano+ - Manga Azul - Tamanho P",
    "pontos": "170",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -6433,7 +6433,7 @@
  {
    "pro_cod": 26280,
    "pro_cod_ext1": 902018997,
-   "pro_descricao": "Camisa P�lo Branca Suzano+ - Manga Azul - Tamanho G",
+   "pro_descricao": "Camisa Polo Branca Suzano+ - Manga Azul - Tamanho G",
    "pontos": "170",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -6441,7 +6441,7 @@
  {
    "pro_cod": 26281,
    "pro_cod_ext1": 902018998,
-   "pro_descricao": "Camisa P�lo Branca Suzano+ - Manga Azul - Tamanho Gg",
+   "pro_descricao": "Camisa Polo Branca Suzano+ - Manga Azul - Tamanho Gg",
    "pontos": "170",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -6449,7 +6449,7 @@
  {
    "pro_cod": 26282,
    "pro_cod_ext1": 902019019,
-   "pro_descricao": "Camisa P�lo Azul Suzano+ - Manga Verde",
+   "pro_descricao": "Camisa Polo Azul Suzano+ - Manga Verde",
    "pontos": "11945",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -6457,7 +6457,7 @@
  {
    "pro_cod": 26283,
    "pro_cod_ext1": 902019020,
-   "pro_descricao": "Camisa P�lo Azul Suzano+ - Manga Verde (unit�rio)",
+   "pro_descricao": "Camisa Polo Azul Suzano+ - Manga Verde (unitario)",
    "pontos": "11945",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -6465,7 +6465,7 @@
  {
    "pro_cod": 26284,
    "pro_cod_ext1": 902019021,
-   "pro_descricao": "Camisa P�lo Azul Suzano+ - Manga Verde - Tamanho P",
+   "pro_descricao": "Camisa Polo Azul Suzano+ - Manga Verde - Tamanho P",
    "pontos": "195",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -6473,7 +6473,7 @@
  {
    "pro_cod": 26285,
    "pro_cod_ext1": 902019022,
-   "pro_descricao": "Camisa P�lo Azul Suzano+ - Manga Verde - Tamanho M",
+   "pro_descricao": "Camisa Polo Azul Suzano+ - Manga Verde - Tamanho M",
    "pontos": "195",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -6481,7 +6481,7 @@
  {
    "pro_cod": 26286,
    "pro_cod_ext1": 902019023,
-   "pro_descricao": "Camisa P�lo Azul Suzano+ - Manga Verde - Tamanho G",
+   "pro_descricao": "Camisa Polo Azul Suzano+ - Manga Verde - Tamanho G",
    "pontos": "195",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -6489,7 +6489,7 @@
  {
    "pro_cod": 26287,
    "pro_cod_ext1": 902019024,
-   "pro_descricao": "Camisa P�lo Azul Suzano+ - Manga Verde - Tamanho Gg",
+   "pro_descricao": "Camisa Polo Azul Suzano+ - Manga Verde - Tamanho Gg",
    "pontos": "195",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7027,7 +7027,7 @@
    "pro_cod_ext1": 902018999,
    "pro_descricao": "Kits (25",
    "pontos": " 50",
-   "categoria": " 100 E 150) Camisa P�lo Branca Suzano+ - Manga Azul - Tamanho P",
+   "categoria": " 100 E 150) Camisa Polo Branca Suzano+ - Manga Azul - Tamanho P",
    "imagem": "20680",
    "FIELD7": "Exclusividade Suzano",
    "FIELD8": "POLOBRANGOLAAZUL.JPG"
@@ -7037,7 +7037,7 @@
  {
    "pro_cod": 26349,
    "pro_cod_ext1": 902019000,
-   "pro_descricao": "Kit Camisa P�lo Branca Suzano+ - Manga Azul P - 25 Unidades",
+   "pro_descricao": "Kit Camisa Polo Branca Suzano+ - Manga Azul P - 25 Unidades",
    "pontos": "3465",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7045,7 +7045,7 @@
  {
    "pro_cod": 26350,
    "pro_cod_ext1": 902019001,
-   "pro_descricao": "Kit Camisa P�lo Branca Suzano+ - Manga Azul P - 50 Unidades",
+   "pro_descricao": "Kit Camisa Polo Branca Suzano+ - Manga Azul P - 50 Unidades",
    "pontos": "6895",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7053,7 +7053,7 @@
  {
    "pro_cod": 26351,
    "pro_cod_ext1": 902019002,
-   "pro_descricao": "Kit Camisa P�lo Branca Suzano+ - Manga Azul P - 100 Unidades",
+   "pro_descricao": "Kit Camisa Polo Branca Suzano+ - Manga Azul P - 100 Unidades",
    "pontos": "13790",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7061,7 +7061,7 @@
  {
    "pro_cod": 26352,
    "pro_cod_ext1": 902019003,
-   "pro_descricao": "Kit Camisa P�lo Branca Suzano+ - Manga Azul P - 150 Unidades",
+   "pro_descricao": "Kit Camisa Polo Branca Suzano+ - Manga Azul P - 150 Unidades",
    "pontos": "20680",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7071,7 +7071,7 @@
    "pro_cod_ext1": 902019004,
    "pro_descricao": "Kits (25",
    "pontos": " 50",
-   "categoria": " 100 E 150) Camisa P�lo Branca Suzano+ - Manga Azul - Tamanho M",
+   "categoria": " 100 E 150) Camisa Polo Branca Suzano+ - Manga Azul - Tamanho M",
    "imagem": "20680",
    "FIELD7": "Exclusividade Suzano",
    "FIELD8": "POLOBRANGOLAAZUL.JPG"
@@ -7081,7 +7081,7 @@
  {
    "pro_cod": 26354,
    "pro_cod_ext1": 902019005,
-   "pro_descricao": "Kit Camisa P�lo Branca Suzano+ - Manga Azul M - 25 Unidades",
+   "pro_descricao": "Kit Camisa Polo Branca Suzano+ - Manga Azul M - 25 Unidades",
    "pontos": "3465",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7089,7 +7089,7 @@
  {
    "pro_cod": 26355,
    "pro_cod_ext1": 902019006,
-   "pro_descricao": "Kit Camisa P�lo Branca Suzano+ - Manga Azul M - 50 Unidades",
+   "pro_descricao": "Kit Camisa Polo Branca Suzano+ - Manga Azul M - 50 Unidades",
    "pontos": "6895",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7097,7 +7097,7 @@
  {
    "pro_cod": 26356,
    "pro_cod_ext1": 902019007,
-   "pro_descricao": "Kit Camisa P�lo Branca Suzano+ - Manga Azul M - 100 Unidades",
+   "pro_descricao": "Kit Camisa Polo Branca Suzano+ - Manga Azul M - 100 Unidades",
    "pontos": "13790",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7105,7 +7105,7 @@
  {
    "pro_cod": 26357,
    "pro_cod_ext1": 902019008,
-   "pro_descricao": "Kit Camisa P�lo Branca Suzano+ - Manga Azul M - 150 Unidades",
+   "pro_descricao": "Kit Camisa Polo Branca Suzano+ - Manga Azul M - 150 Unidades",
    "pontos": "20680",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7115,7 +7115,7 @@
    "pro_cod_ext1": 902019009,
    "pro_descricao": "Kits (25",
    "pontos": " 50",
-   "categoria": " 100 E 150) Camisa P�lo Branca Suzano+ - Manga Azul - Tamanho G",
+   "categoria": " 100 E 150) Camisa Polo Branca Suzano+ - Manga Azul - Tamanho G",
    "imagem": "20680",
    "FIELD7": "Exclusividade Suzano",
    "FIELD8": "POLOBRANGOLAAZUL.JPG"
@@ -7125,7 +7125,7 @@
  {
    "pro_cod": 26359,
    "pro_cod_ext1": 902019010,
-   "pro_descricao": "Kit Camisa P�lo Branca Suzano+ - Manga Azul G - 25 Unidades",
+   "pro_descricao": "Kit Camisa Polo Branca Suzano+ - Manga Azul G - 25 Unidades",
    "pontos": "3465",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7133,7 +7133,7 @@
  {
    "pro_cod": 26360,
    "pro_cod_ext1": 902019011,
-   "pro_descricao": "Kit Camisa P�lo Branca Suzano+ - Manga Azul G - 50 Unidades",
+   "pro_descricao": "Kit Camisa Polo Branca Suzano+ - Manga Azul G - 50 Unidades",
    "pontos": "6895",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7141,7 +7141,7 @@
  {
    "pro_cod": 26361,
    "pro_cod_ext1": 902019012,
-   "pro_descricao": "Kit Camisa P�lo Branca Suzano+ - Manga Azul G - 100 Unidades",
+   "pro_descricao": "Kit Camisa Polo Branca Suzano+ - Manga Azul G - 100 Unidades",
    "pontos": "13790",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7149,7 +7149,7 @@
  {
    "pro_cod": 26362,
    "pro_cod_ext1": 902019013,
-   "pro_descricao": "Kit Camisa P�lo Branca Suzano+ - Manga Azul G - 150 Unidades",
+   "pro_descricao": "Kit Camisa Polo Branca Suzano+ - Manga Azul G - 150 Unidades",
    "pontos": "20680",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7159,7 +7159,7 @@
    "pro_cod_ext1": 902019014,
    "pro_descricao": "Kits (25",
    "pontos": " 50",
-   "categoria": " 100 E 150) Camisa P�lo Branca Suzano+ - Manga Azul - Tamanho Gg",
+   "categoria": " 100 E 150) Camisa Polo Branca Suzano+ - Manga Azul - Tamanho Gg",
    "imagem": "20680",
    "FIELD7": "Exclusividade Suzano",
    "FIELD8": "POLOBRANGOLAAZUL.JPG"
@@ -7169,7 +7169,7 @@
  {
    "pro_cod": 26364,
    "pro_cod_ext1": 902019015,
-   "pro_descricao": "Kit Camisa P�lo Branca Suzano+ - Manga Azul Gg - 25 Unidades",
+   "pro_descricao": "Kit Camisa Polo Branca Suzano+ - Manga Azul Gg - 25 Unidades",
    "pontos": "3465",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7177,7 +7177,7 @@
  {
    "pro_cod": 26365,
    "pro_cod_ext1": 902019016,
-   "pro_descricao": "Kit Camisa P�lo Branca Suzano+ - Manga Azul Gg - 50 Unidades",
+   "pro_descricao": "Kit Camisa Polo Branca Suzano+ - Manga Azul Gg - 50 Unidades",
    "pontos": "6895",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7185,7 +7185,7 @@
  {
    "pro_cod": 26366,
    "pro_cod_ext1": 902019017,
-   "pro_descricao": "Kit Camisa P�lo Branca Suzano+ - Manga Azul Gg - 100 Unidades",
+   "pro_descricao": "Kit Camisa Polo Branca Suzano+ - Manga Azul Gg - 100 Unidades",
    "pontos": "13790",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7193,7 +7193,7 @@
  {
    "pro_cod": 26367,
    "pro_cod_ext1": 902019018,
-   "pro_descricao": "Kit Camisa P�lo Branca Suzano+ - Manga Azul Gg - 150 Unidades",
+   "pro_descricao": "Kit Camisa Polo Branca Suzano+ - Manga Azul Gg - 150 Unidades",
    "pontos": "20680",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7203,7 +7203,7 @@
    "pro_cod_ext1": 902019025,
    "pro_descricao": "Kits (25",
    "pontos": " 50",
-   "categoria": " 100 E 150) Camisa P�lo Azul Suzano+ - Manga Verde - Tamanho P",
+   "categoria": " 100 E 150) Camisa Polo Azul Suzano+ - Manga Verde - Tamanho P",
    "imagem": "24845",
    "FIELD7": "Exclusividade Suzano",
    "FIELD8": "POLOAZULGOLAVER.JPG"
@@ -7213,7 +7213,7 @@
  {
    "pro_cod": 26369,
    "pro_cod_ext1": 902019026,
-   "pro_descricao": "Kit Camisa P�lo Azul Suzano+ - Manga Verde P - 25 Unidades",
+   "pro_descricao": "Kit Camisa Polo Azul Suzano+ - Manga Verde P - 25 Unidades",
    "pontos": "4160",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7221,7 +7221,7 @@
  {
    "pro_cod": 26370,
    "pro_cod_ext1": 902019027,
-   "pro_descricao": "Kit Camisa P�lo Azul Suzano+ - Manga Verde P - 50 Unidades",
+   "pro_descricao": "Kit Camisa Polo Azul Suzano+ - Manga Verde P - 50 Unidades",
    "pontos": "8295",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7229,7 +7229,7 @@
  {
    "pro_cod": 26371,
    "pro_cod_ext1": 902019028,
-   "pro_descricao": "Kit Camisa P�lo Azul Suzano+ - Manga Verde P - 100 Unidades",
+   "pro_descricao": "Kit Camisa Polo Azul Suzano+ - Manga Verde P - 100 Unidades",
    "pontos": "16580",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7237,7 +7237,7 @@
  {
    "pro_cod": 26372,
    "pro_cod_ext1": 902019029,
-   "pro_descricao": "Kit Camisa P�lo Azul Suzano+ - Manga Verde P - 150 Unidades",
+   "pro_descricao": "Kit Camisa Polo Azul Suzano+ - Manga Verde P - 150 Unidades",
    "pontos": "24845",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7247,7 +7247,7 @@
    "pro_cod_ext1": 902019030,
    "pro_descricao": "Kits (25",
    "pontos": " 50",
-   "categoria": " 100 E 150) Camisa P�lo Azul Suzano+ - Manga Verde - Tamanho M",
+   "categoria": " 100 E 150) Camisa Polo Azul Suzano+ - Manga Verde - Tamanho M",
    "imagem": "24845",
    "FIELD7": "Exclusividade Suzano",
    "FIELD8": "POLOAZULGOLAVER.JPG"
@@ -7257,7 +7257,7 @@
  {
    "pro_cod": 26374,
    "pro_cod_ext1": 902019031,
-   "pro_descricao": "Kit Camisa P�lo Azul Suzano+ - Manga Verde M - 25 Unidades",
+   "pro_descricao": "Kit Camisa Polo Azul Suzano+ - Manga Verde M - 25 Unidades",
    "pontos": "4160",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7265,7 +7265,7 @@
  {
    "pro_cod": 26375,
    "pro_cod_ext1": 902019032,
-   "pro_descricao": "Kit Camisa P�lo Azul Suzano+ - Manga Verde M - 50 Unidades",
+   "pro_descricao": "Kit Camisa Polo Azul Suzano+ - Manga Verde M - 50 Unidades",
    "pontos": "8295",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7273,7 +7273,7 @@
  {
    "pro_cod": 26376,
    "pro_cod_ext1": 902019033,
-   "pro_descricao": "Kit Camisa P�lo Azul Suzano+ - Manga Verde M - 100 Unidades",
+   "pro_descricao": "Kit Camisa Polo Azul Suzano+ - Manga Verde M - 100 Unidades",
    "pontos": "16580",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7281,7 +7281,7 @@
  {
    "pro_cod": 26377,
    "pro_cod_ext1": 902019034,
-   "pro_descricao": "Kit Camisa P�lo Azul Suzano+ - Manga Verde M - 150 Unidades",
+   "pro_descricao": "Kit Camisa Polo Azul Suzano+ - Manga Verde M - 150 Unidades",
    "pontos": "24845",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7291,7 +7291,7 @@
    "pro_cod_ext1": 902019035,
    "pro_descricao": "Kits (25",
    "pontos": " 50",
-   "categoria": " 100 E 150) Camisa P�lo Azul Suzano+ - Manga Verde - Tamanho G",
+   "categoria": " 100 E 150) Camisa Polo Azul Suzano+ - Manga Verde - Tamanho G",
    "imagem": "24845",
    "FIELD7": "Exclusividade Suzano",
    "FIELD8": "POLOAZULGOLAVER.JPG"
@@ -7301,7 +7301,7 @@
  {
    "pro_cod": 26379,
    "pro_cod_ext1": 902019036,
-   "pro_descricao": "Kit Camisa P�lo Azul Suzano+ - Manga Verde G - 25 Unidades",
+   "pro_descricao": "Kit Camisa Polo Azul Suzano+ - Manga Verde G - 25 Unidades",
    "pontos": "4160",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7309,7 +7309,7 @@
  {
    "pro_cod": 26380,
    "pro_cod_ext1": 902019037,
-   "pro_descricao": "Kit Camisa P�lo Azul Suzano+ - Manga Verde G - 50 Unidades",
+   "pro_descricao": "Kit Camisa Polo Azul Suzano+ - Manga Verde G - 50 Unidades",
    "pontos": "8295",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7317,7 +7317,7 @@
  {
    "pro_cod": 26381,
    "pro_cod_ext1": 902019038,
-   "pro_descricao": "Kit Camisa P�lo Azul Suzano+ - Manga Verde G - 100 Unidades",
+   "pro_descricao": "Kit Camisa Polo Azul Suzano+ - Manga Verde G - 100 Unidades",
    "pontos": "16580",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7325,7 +7325,7 @@
  {
    "pro_cod": 26382,
    "pro_cod_ext1": 902019039,
-   "pro_descricao": "Kit Camisa P�lo Azul Suzano+ - Manga Verde G - 150 Unidades",
+   "pro_descricao": "Kit Camisa Polo Azul Suzano+ - Manga Verde G - 150 Unidades",
    "pontos": "24845",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7335,7 +7335,7 @@
    "pro_cod_ext1": 902019040,
    "pro_descricao": "Kits (25",
    "pontos": " 50",
-   "categoria": " 100 E 150) Camisa P�lo Azul Suzano+ - Manga Verde - Tamanho Gg",
+   "categoria": " 100 E 150) Camisa Polo Azul Suzano+ - Manga Verde - Tamanho Gg",
    "imagem": "24845",
    "FIELD7": "Exclusividade Suzano",
    "FIELD8": "POLOAZULGOLAVER.JPG"
@@ -7345,7 +7345,7 @@
  {
    "pro_cod": 26384,
    "pro_cod_ext1": 902019041,
-   "pro_descricao": "Kit Camisa P�lo Azul Suzano+ - Manga Verde Gg - 25 Unidades",
+   "pro_descricao": "Kit Camisa Polo Azul Suzano+ - Manga Verde Gg - 25 Unidades",
    "pontos": "4160",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7353,7 +7353,7 @@
  {
    "pro_cod": 26385,
    "pro_cod_ext1": 902019042,
-   "pro_descricao": "Kit Camisa P�lo Azul Suzano+ - Manga Verde Gg - 50 Unidades",
+   "pro_descricao": "Kit Camisa Polo Azul Suzano+ - Manga Verde Gg - 50 Unidades",
    "pontos": "8295",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7361,7 +7361,7 @@
  {
    "pro_cod": 26386,
    "pro_cod_ext1": 902019043,
-   "pro_descricao": "Kit Camisa P�lo Azul Suzano+ - Manga Verde Gg - 100 Unidades",
+   "pro_descricao": "Kit Camisa Polo Azul Suzano+ - Manga Verde Gg - 100 Unidades",
    "pontos": "16580",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7369,7 +7369,7 @@
  {
    "pro_cod": 26387,
    "pro_cod_ext1": 902019044,
-   "pro_descricao": "Kit Camisa P�lo Azul Suzano+ - Manga Verde Gg - 150 Unidades",
+   "pro_descricao": "Kit Camisa Polo Azul Suzano+ - Manga Verde Gg - 150 Unidades",
    "pontos": "24845",
    "categoria": "Exclusividade Suzano",
    "imagem": "POLOAZULGOLAVER.JPG"
@@ -7929,7 +7929,7 @@
  {
    "pro_cod": 26466,
    "pro_cod_ext1": 902019137,
-   "pro_descricao": "Camisa P�lo Branca Suzano+ Personalizado - Manga Azul",
+   "pro_descricao": "Camisa Polo Branca Suzano+ Personalizado - Manga Azul",
    "pontos": "20680",
    "categoria": "Personalizados Com Logo De Sua Loja",
    "imagem": "POLOBRANGOLAAZUL.JPG"
@@ -7939,7 +7939,7 @@
    "pro_cod_ext1": 902019143,
    "pro_descricao": "Kits (25",
    "pontos": " 50",
-   "categoria": " 100 E 150) Camisa P�lo Branca Suzano+ Personalizado - Manga Azul - Tamanho P",
+   "categoria": " 100 E 150) Camisa Polo Branca Suzano+ Personalizado - Manga Azul - Tamanho P",
    "imagem": "20680",
    "FIELD7": "Personalizados Com Logo De Sua Loja",
    "FIELD8": "POLOBRANGOLAAZUL.JPG"
@@ -8297,7 +8297,7 @@
  {
    "pro_cod": 26527,
    "pro_cod_ext1": 902000009,
-   "pro_descricao": "Bomba Tira-leite El�trica",
+   "pro_descricao": "Bomba Tira-leite Eletrica",
    "pontos": "490",
    "categoria": "Desconto Exclusivo",
    "imagem": "BLACOMP_COM LOGO.JPG"
@@ -8329,7 +8329,7 @@
  {
    "pro_cod": 26542,
    "pro_cod_ext1": 902007972,
-   "pro_descricao": "Moto El�trica Infantil Preta",
+   "pro_descricao": "Moto Eletrica Infantil Preta",
    "pontos": "2170",
    "categoria": "Infantil",
    "imagem": "MOTO ELETRICA INFANTIL PRETA.JPG"
@@ -8385,7 +8385,7 @@
  {
    "pro_cod": 26564,
    "pro_cod_ext1": 902014400,
-   "pro_descricao": "Little Mommy Ber�o Para Boneca",
+   "pro_descricao": "Little Mommy Berao Para Boneca",
    "pontos": "340",
    "categoria": "Desconto Exclusivo",
    "imagem": "81452.JPG"
@@ -8393,7 +8393,7 @@
  {
    "pro_cod": 26574,
    "pro_cod_ext1": 902015289,
-   "pro_descricao": "Cart�o De Mem�ria Micro Sd C/ Adaptador 32gb Classe 4",
+   "pro_descricao": "Cartao De Mem�ria Micro Sd C/ Adaptador 32gb Classe 4",
    "pontos": "285",
    "categoria": "Informática",
    "imagem": "CARAS42GB.JPG"
@@ -8481,7 +8481,7 @@
  {
    "pro_cod": 27064,
    "pro_cod_ext1": 902006397,
-   "pro_descricao": "C�mera Digital WB350F",
+   "pro_descricao": "Camera Digital WB350F",
    "pontos": "1725",
    "categoria": "Desconto Exclusivo",
    "imagem": "SMART CAMERA SAMSUNG ST2014F.JPG"
@@ -8489,7 +8489,7 @@
  {
    "pro_cod": 27238,
    "pro_cod_ext1": 902019496,
-   "pro_descricao": "Vale Presente Virtual Terra�o It�lia",
+   "pro_descricao": "Vale Presente Virtual Terraco Italia",
    "pontos": "1595",
    "categoria": "Mês dos Pais",
    "imagem": "TERRIT.JPG"
@@ -8497,7 +8497,7 @@
  {
    "pro_cod": 27239,
    "pro_cod_ext1": 902019497,
-   "pro_descricao": "Vale Presente Virtual Terra�o It�lia - R$ 150",
+   "pro_descricao": "Vale Presente Virtual Terraco Italia - R$ 150",
    "pontos": "00",
    "categoria": "485",
    "imagem": "Mês dos Pais",
@@ -8509,7 +8509,7 @@
  {
    "pro_cod": 27240,
    "pro_cod_ext1": 902019498,
-   "pro_descricao": "Vale Presente Virtual Terra�o It�lia - R$ 300",
+   "pro_descricao": "Vale Presente Virtual Terraco Italia - R$ 300",
    "pontos": "00",
    "categoria": "960",
    "imagem": "Mês dos Pais",
@@ -8585,7 +8585,7 @@
  {
    "pro_cod": 27678,
    "pro_cod_ext1": 902019589,
-   "pro_descricao": "Purificador De �gua Ibbl Fr600 Speciale Prata",
+   "pro_descricao": "Purificador De Agua Ibbl Fr600 Speciale Prata",
    "pontos": "3400",
    "categoria": "Eletroportáteis",
    "imagem": "BEBEDOFR600.JPG"
@@ -8593,7 +8593,7 @@
  {
    "pro_cod": 27679,
    "pro_cod_ext1": 902019590,
-   "pro_descricao": "Purificador De �gua Ibbl Fr600 Speciale Prata - 110v",
+   "pro_descricao": "Purificador De Agua Ibbl Fr600 Speciale Prata - 110v",
    "pontos": "3400",
    "categoria": "Eletroportáteis",
    "imagem": "BEBEDOFR600.JPG"
@@ -8601,7 +8601,7 @@
  {
    "pro_cod": 27680,
    "pro_cod_ext1": 902019591,
-   "pro_descricao": "Purificador De �gua Ibbl Fr600 Speciale Prata - 220v",
+   "pro_descricao": "Purificador De Agua Ibbl Fr600 Speciale Prata - 220v",
    "pontos": "3400",
    "categoria": "Eletroportáteis",
    "imagem": "BEBEDOFR600.JPG"
@@ -8609,7 +8609,7 @@
  {
    "pro_cod": 27681,
    "pro_cod_ext1": 902019592,
-   "pro_descricao": "Purificador De �gua Ibbl Evolux Preto",
+   "pro_descricao": "Purificador De Agua Ibbl Evolux Preto",
    "pontos": "3740",
    "categoria": "Eletroportáteis",
    "imagem": "BEBEDOUROPRETOIBBL.JPG"
@@ -8617,7 +8617,7 @@
  {
    "pro_cod": 27682,
    "pro_cod_ext1": 902019593,
-   "pro_descricao": "Purificador De �gua Ibbl Evolux Preto - 110v",
+   "pro_descricao": "Purificador De Agua Ibbl Evolux Preto - 110v",
    "pontos": "3740",
    "categoria": "Eletroportáteis",
    "imagem": "BEBEDOUROPRETOIBBL.JPG"
@@ -8625,7 +8625,7 @@
  {
    "pro_cod": 27683,
    "pro_cod_ext1": 902019594,
-   "pro_descricao": "Purificador De �gua Ibbl Evolux Preto - 220v",
+   "pro_descricao": "Purificador De Agua Ibbl Evolux Preto - 220v",
    "pontos": "3740",
    "categoria": "Eletroportáteis",
    "imagem": "BEBEDOUROPRETOIBBL.JPG"
@@ -8633,7 +8633,7 @@
  {
    "pro_cod": 27684,
    "pro_cod_ext1": 902019595,
-   "pro_descricao": "Purificador De �gua Ibbl Fr600 Exclusive Branco",
+   "pro_descricao": "Purificador De Agua Ibbl Fr600 Exclusive Branco",
    "pontos": "3800",
    "categoria": "Eletroportáteis",
    "imagem": "BEBEDOURBRANCIBBL.JPG"
@@ -8641,7 +8641,7 @@
  {
    "pro_cod": 27685,
    "pro_cod_ext1": 902019596,
-   "pro_descricao": "Purificador De �gua Ibbl Fr600 Exclusive Branco - 110v",
+   "pro_descricao": "Purificador De Agua Ibbl Fr600 Exclusive Branco - 110v",
    "pontos": "3800",
    "categoria": "Eletroportáteis",
    "imagem": "BEBEDOURBRANCIBBL.JPG"
@@ -9233,7 +9233,7 @@
  {
    "pro_cod": 27797,
    "pro_cod_ext1": 902019274,
-   "pro_descricao": "Cart�o De Mem�ria Micro Sd 64gb Classe10 Sandisk",
+   "pro_descricao": "Cartao De Mem�ria Micro Sd 64gb Classe10 Sandisk",
    "pontos": "445",
    "categoria": "Informática",
    "imagem": "249417.JPG"
@@ -9241,7 +9241,7 @@
  {
    "pro_cod": 27798,
    "pro_cod_ext1": 902019277,
-   "pro_descricao": "Cart�o De Mem�ria Micro Sd 8gb Classe 4 Multilaser",
+   "pro_descricao": "Cartao De Mem�ria Micro Sd 8gb Classe 4 Multilaser",
    "pontos": "155",
    "categoria": "Informática",
    "imagem": "249413.JPG"
@@ -9437,7 +9437,7 @@
  {
    "pro_cod": 28079,
    "pro_cod_ext1": 902018751,
-   "pro_descricao": "Vale Presente Virtual O Melhor Da Vida - Divers�o",
+   "pro_descricao": "Vale Presente Virtual O Melhor Da Vida - Diversao",
    "pontos": "485",
    "categoria": "Mês dos Pais",
    "imagem": "VALEDIRVERSAO.JPG"
@@ -9445,7 +9445,7 @@
  {
    "pro_cod": 28080,
    "pro_cod_ext1": 902018752,
-   "pro_descricao": "Vale Presente Virtual O Melhor Da Vida - Divers�o - R$ 150",
+   "pro_descricao": "Vale Presente Virtual O Melhor Da Vida - Diversao - R$ 150",
    "pontos": "00",
    "categoria": "485",
    "imagem": "Mês dos Pais",
@@ -9457,7 +9457,7 @@
  {
    "pro_cod": 28081,
    "pro_cod_ext1": 902018756,
-   "pro_descricao": "Vale Presente Virtual O Melhor Da Vida - Divers�o - R$ 500",
+   "pro_descricao": "Vale Presente Virtual O Melhor Da Vida - Diversao - R$ 500",
    "pontos": "00",
    "categoria": "1595",
    "imagem": "Mês dos Pais",
@@ -9665,7 +9665,7 @@
  {
    "pro_cod": 28192,
    "pro_cod_ext1": 902019859,
-   "pro_descricao": "C�mera Infravermelho 20 Metros Dome Hdcvi 3.6mm - Vhl 1120 D - 12v",
+   "pro_descricao": "Camera Infravermelho 20 Metros Dome Hdcvi 3.6mm - Vhl 1120 D - 12v",
    "pontos": "250",
    "categoria": "Eletronicos",
    "imagem": "CAMEVHL1120D.JPG"
@@ -9673,7 +9673,7 @@
  {
    "pro_cod": 28245,
    "pro_cod_ext1": 902019275,
-   "pro_descricao": "Cart�o De Mem�ria Micro Sd 16gb Classe 10 Sandisk",
+   "pro_descricao": "Cartao De Mem�ria Micro Sd 16gb Classe 10 Sandisk",
    "pontos": "205",
    "categoria": "Informática",
    "imagem": "259403.JPG"
@@ -9721,7 +9721,7 @@
  {
    "pro_cod": 29767,
    "pro_cod_ext1": 902019862,
-   "pro_descricao": "Porta Cart�o Suzano+",
+   "pro_descricao": "Porta Cartao Suzano+",
    "pontos": "140",
    "categoria": "Acessórios",
    "imagem": "portacartoessuzano.JPG"

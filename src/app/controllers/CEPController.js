@@ -27,22 +27,22 @@ class CEPController {
       var estado = resposta_cep.uf[0];
       var cidade = resposta_cep.cidade[0];
       if (resposta_cep.bairro[0]) {
-        var bairro = resposta_cep.bairro[0];
+        bairro = resposta_cep.bairro[0];
       }
       if (resposta_cep.logradouro[0]) {
-        var logradouro = resposta_cep.logradouro[0];
+        logradouro = resposta_cep.logradouro[0];
       }
 
-      var resposta_cep = "Os dados localizados foram:";
-      resposta_cep += "Logradouro:" + logradouro;
-      resposta_cep += "Bairro:" + bairro;
-      resposta_cep += "Cidade:" + cidade;
-      resposta_cep += "UF:" + estado;
+      var retorno_cep = "Os dados localizados foram:" + "\n";
+      retorno_cep += "Logradouro:" + logradouro + "\n";
+      retorno_cep += "Bairro:" + bairro + "\n";
+      retorno_cep += "Cidade:" + cidade + "\n";
+      retorno_cep += "UF:" + estado + "\n";
       resposta =
         "Parece que você digitou um CEP... Este CEP parece ser da " +
         regiao +
         "..." +
-        resposta_cep;
+        retorno_cep;
     }
     res.send(resposta);
   }

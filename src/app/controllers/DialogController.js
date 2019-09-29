@@ -27,6 +27,7 @@ class DialogController {
     try {
       var payload = {};
       var resposta = "TESTE DE RESPOSTA";
+      var mensagens = [];
       var response;
 
       if (intent == "CPF_participante") {
@@ -57,7 +58,8 @@ class DialogController {
 
       if (intent == "Sugestões") {
         response = await axios.get(`${host}/sugestao`);
-        resposta = response.data;
+        resposta = response.data.text;
+        mensagens = response.data.messages;
       }
 
       if (intent == "CEP_participante") {
@@ -66,10 +68,12 @@ class DialogController {
         resposta = response.data;
       }
 
-      return res.status(200).json({
-        fulfillmentText: resposta,
-        payload
-      });
+      var retorno = { fulfillmentText: resposta, payload: payload };
+      if (mensagens.length > 0) {
+        retorno.fulfillmentMessages = mensagens;
+      }
+
+      return res.status(200).json(retorno);
     } catch (err) {
       //console.log("err: ", err);
       return res.status(200).json({

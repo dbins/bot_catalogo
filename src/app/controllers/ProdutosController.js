@@ -70,14 +70,36 @@ class ProdutosController {
   async codigo(req, res) {
     //var codigo = "902006683";
     var codigo = req.params.codigo_produto;
+    var messages = [];
+    //"card": {
+    //  "title": "card title",
+    //  "subtitle": "card text",
+    //  "imageUri": "https://assistant.google.com/static/images/molecule/Molecule-Formation-stop.png",
+    //  "buttons": [
+    //    {
+    //      "text": "button text",
+    //      "postback": "https://assistant.google.com/"
+    //    }
+    //  ]
+    //}
     var nome_produto = "Produto não encontrado";
     for (var i = 0; i < data.length; i++) {
-      var nome_categoria = data[i].categoria.toLowerCase();
       if (data[i].pro_cod_ext1 == codigo) {
         nome_produto = data[i].pro_descricao;
+        var tmp = {
+          card: {
+            title: data[i].pro_descricao,
+            subtitle: data[i].pontos + " pontos",
+            imageUri:
+              "http://www.plataformaomnion.com.br/catalogo/padrao/" +
+              data[i].imagem
+          }
+        };
+        messages.push(tmp);
       }
     }
-    res.send(nome_produto);
+    var retorno = { text: nome_produto, messages: messages };
+    res.send(retorno);
   }
 }
 

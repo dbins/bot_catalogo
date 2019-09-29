@@ -1,0 +1,32 @@
+{  
+   "responseId":"xxxx-xxx-4087-8df8-9f515xxxxxx2b-6xxxxx",
+   "queryResult":{  
+      "queryText":"Pick loop 2020",
+      "parameters":{  
+         "yoyos":"loop2020"
+      },
+      "allRequiredParamsPresent":true,
+      "outputContexts":[  
+         {  
+            "name":"projects/yoyo-shop-xxxx/agent/sessions/xxxxxxx-bdc6-e74e-xxxx-9849ea4xxxxx/contexts/yoyo",
+            "lifespanCount":5,
+            "parameters":{  
+               "yoyos":"loop2020",
+               "yoyos.original":"loop 2020"
+            }
+         }
+      ],
+      "intent":{  
+         "name":"projects/yoyo-shop-kjbpri/agent/intents/xxxxxx-5fa3-4778-9778-xxxxxxxx",
+         "displayName":"select_yoyo"
+      },
+      "intentDetectionConfidence":1,
+      "languageCode":"en"
+   },
+   "originalDetectIntentRequest":{  
+      "payload":{  
+
+      }
+   },
+   "session":"projects/yoyo-shop-xxxx/agent/sessions/xxx-bdc6-e74e-27c4-xxxxxx"
+}

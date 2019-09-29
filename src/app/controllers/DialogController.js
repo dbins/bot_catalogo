@@ -54,12 +54,14 @@ class DialogController {
         //var nome_produto = "max steel";
         var nome_produto = parametro.produtos;
         response = await axios.get(`${host}/produto/${nome_produto}`);
-        resposta = response.data;
+        resposta = response.data.text;
+        mensagens = response.data.messages;
       }
 
       if (intent == "Sugestões") {
         response = await axios.get(`${host}/sugestao`);
-        resposta = response.data;
+        resposta = response.data.text;
+        mensagens = response.data.messages;
       }
 
       if (intent == "CEP_participante") {

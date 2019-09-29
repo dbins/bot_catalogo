@@ -6,7 +6,6 @@ class ProdutosController {
     categoria_selecionada = categoria_selecionada.toLowerCase();
     var nome_categoria_resposta = "";
     var tmp_array = [];
-    var total = 0;
     for (var i = 0; i < data.length; i++) {
       var nome_categoria = data[i].categoria.toLowerCase();
       if (nome_categoria.includes(categoria_selecionada)) {
@@ -27,22 +26,55 @@ class ProdutosController {
   }
 
   async sugestao(req, res) {
+    var messages = [];
     var item = data[(data.length * Math.random()) | 0];
     var resposta = item.pro_descricao + " por " + item.pontos + " pontos!";
-    return res.status(200).json(resposta);
+    var tmp = {
+      text: {
+        text: [item.pro_descricao + " - " + item.pontos + " pontos"]
+      }
+    };
+    var tmp2 = {
+      card: {
+        title: item.pro_descricao,
+        subtitle: item.pontos + " pontos",
+        imageUri:
+          "http://www.plataformaomnion.com.br/catalogo/padrao/" + item.imagem
+      }
+    };
+    messages.push(tmp);
+    messages.push(tmp2);
+    var retorno = { text: resposta, messages: messages };
+    return res.status(200).json(retorno);
   }
 
   async produto(req, res) {
     var resultado = "produto";
+    var messages = [];
     var nome_produto_selecionado = req.params.nome;
     nome_produto_selecionado = nome_produto_selecionado.toLowerCase();
     var tmp_array = [];
-    var total = 0;
     for (var i = 0; i < data.length; i++) {
       var nome_produto = data[i].pro_descricao.toLowerCase();
       if (nome_produto.includes(nome_produto_selecionado)) {
         resultado = data[i].pro_descricao;
         tmp_array.push(data[i]);
+        var tmp = {
+          text: {
+            text: [data[i].pro_descricao + " - " + data[i].pontos + " pontos"]
+          }
+        };
+        var tmp2 = {
+          card: {
+            title: data[i].pro_descricao,
+            subtitle: data[i].pontos + " pontos",
+            imageUri:
+              "http://www.plataformaomnion.com.br/catalogo/padrao/" +
+              data[i].imagem
+          }
+        };
+        messages.push(tmp);
+        messages.push(tmp2);
       }
     }
     if (tmp_array.length == 0) {
@@ -63,8 +95,8 @@ class ProdutosController {
       resultado +=
         "Os produtos encontrados foram: " + nomes_produtos.join(", ");
     }
-
-    return res.status(200).json(resultado);
+    var resposta = { text: resultado, messages: messages };
+    return res.status(200).json(resposta);
   }
 
   async codigo(req, res) {
@@ -86,11 +118,11 @@ class ProdutosController {
     for (var i = 0; i < data.length; i++) {
       if (data[i].pro_cod_ext1 == codigo) {
         nome_produto = data[i].pro_descricao;
-		var tmp = {
-			text: {
-				text: [data[i].pro_descricao + ' - ' + data[i].pontos + 'pontos']
-			}			
-		};
+        var tmp = {
+          text: {
+            text: [data[i].pro_descricao + " - " + data[i].pontos + " pontos"]
+          }
+        };
         var tmp2 = {
           card: {
             title: data[i].pro_descricao,
@@ -100,7 +132,7 @@ class ProdutosController {
               data[i].imagem
           }
         };
-		messages.push(tmp);
+        messages.push(tmp);
         messages.push(tmp2);
       }
     }

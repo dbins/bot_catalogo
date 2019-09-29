@@ -86,7 +86,12 @@ class ProdutosController {
     for (var i = 0; i < data.length; i++) {
       if (data[i].pro_cod_ext1 == codigo) {
         nome_produto = data[i].pro_descricao;
-        var tmp = {
+		var tmp = {
+			text: {
+				text: [data[i].pro_descricao + ' - ' + data[i].pontos + 'pontos']
+			}			
+		};
+        var tmp2 = {
           card: {
             title: data[i].pro_descricao,
             subtitle: data[i].pontos + " pontos",
@@ -95,7 +100,8 @@ class ProdutosController {
               data[i].imagem
           }
         };
-        messages.push(tmp);
+		messages.push(tmp);
+        messages.push(tmp2);
       }
     }
     var retorno = { text: nome_produto, messages: messages };

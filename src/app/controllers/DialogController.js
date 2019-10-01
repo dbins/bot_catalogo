@@ -75,10 +75,10 @@ class DialogController {
       }
 
       if (intent == "Reclamacao") {
-        var reclamacao = parametro.reclamacao;
+        var mensagem = parametro.reclamacao;
         var email = parametro.email;
         response = await axios.post(`${host}/reclamacao`, {
-          reclamacao: reclamacao,
+          mensagem: mensagem,
           email: email
         });
         resposta = response.data;

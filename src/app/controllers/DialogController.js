@@ -13,6 +13,10 @@ class DialogController {
     //CPF_participante - CPF;
     //Produtos - produtos;
     //Sugestões - sem parametros
+    //CodigoTroca - codigo
+    //StatusTroca - codigo
+    //Cancelamento - codigo
+    //Reclamacao - reclamacao - email
 
     if (req.body.queryResult) {
       //const {
@@ -67,6 +71,16 @@ class DialogController {
       if (intent == "CEP_participante") {
         var valor_cep = parametro.CEP;
         response = await axios.get(`${host}/CEP/${valor_cep}`);
+        resposta = response.data;
+      }
+
+      if (intent == "Reclamacao") {
+        var reclamacao = parametro.reclamacao;
+        var email = parametro.reclamacao;
+        response = await axios.post(`${host}/reclamacao`, {
+          reclamacao: reclamacao,
+          email: email
+        });
         resposta = response.data;
       }
 

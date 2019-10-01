@@ -1,3 +1,5 @@
+const axios = require("axios");
+const FormData = require("form-data");
 const data = require("../../database/lista_produtos.json");
 class ProdutosController {
   async categoria(req, res) {
@@ -138,6 +140,27 @@ class ProdutosController {
     }
     var retorno = { text: nome_produto, messages: messages };
     res.send(retorno);
+  }
+  async reclamacao(req, res) {
+    var email = req.body.email;
+    var mensagem = req.body.mensagem;
+    var params = new FormData();
+    params.append("email", email);
+    params.append("mensagem", mensagem);
+    const headers = {
+      ...params.getHeaders(),
+      "Content-Length": params.getLengthSync()
+    };
+    var response = await axios.post(
+      "http://www.dbins.com.br/ferramentas/botcatalogo/index.php",
+      params,
+      { headers }
+    );
+    var retorno = "NAO ENVIADO";
+    if (response.data == "OK") {
+      retorno = "OK";
+    }
+    res.status(200).send(retorno);
   }
 }
 

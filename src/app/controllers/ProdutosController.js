@@ -156,9 +156,9 @@ class ProdutosController {
       params,
       { headers }
     );
-    var retorno = "NAO ENVIADO";
+    var retorno = "Sua mensagem foi enviada com sucesso!";
     if (response.data == "OK") {
-      retorno = "OK";
+      retorno = "Sua mensagem foi enviada com sucesso!";
     }
     res.status(200).send(retorno);
   }

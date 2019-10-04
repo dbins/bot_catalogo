@@ -17,6 +17,7 @@ class DialogController {
     //StatusTroca - codigo
     //Cancelamento - codigo
     //Reclamacao - reclamacao - email
+    //Faixa de Pontos - number1 - number2 - number3 - number4
 
     if (req.body.queryResult) {
       //const {
@@ -80,6 +81,33 @@ class DialogController {
         response = await axios.post(`${host}/reclamacao`, {
           mensagem: mensagem,
           email: email
+        });
+        resposta = response.data;
+      }
+
+      if (intent == "Faixa de Pontos") {
+        var number1 = "";
+        var number2 = "";
+        var number3 = "";
+        var number4 = "";
+
+        if (parametro.number1) {
+          number1 = parametro.number1;
+        }
+        if (parametro.number2) {
+          number2 = parametro.number2;
+        }
+        if (parametro.number3) {
+          number3 = parametro.number3;
+        }
+        if (parametro.number4) {
+          number4 = parametro.number4;
+        }
+        response = await axios.post(`${host}/faixa`, {
+          number1: number1,
+          number2: number2,
+          number3: number3,
+          number4: number4
         });
         resposta = response.data;
       }

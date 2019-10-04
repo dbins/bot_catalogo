@@ -33,3 +33,4 @@ Abaixo segue um resumo das rotas disponíveis:
 | /categoria/:nome | GET    | Exibe informações sobre a categoria de produto informada                       |
 | /produto/:nome   | GET    | Pesquisa produto pelo nome                                                     |
 | codigo_produto   | GET    | Pesquisa produto pelo código                                                   |
+| reclamacao       | POST   | Envia uma reclamação por e-mail                                                |

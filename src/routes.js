@@ -14,4 +14,5 @@ routes.get("/codigo/:codigo_produto", handle(ProdutosController.codigo));
 routes.get("/CEP/:cep", handle(CEPController.pesquisar));
 routes.get("/CPF/:cpf", handle(CPFController.validar));
 routes.post("/reclamacao", handle(ProdutosController.reclamacao));
+routes.post("/faixa", handle(ProdutosController.faixa));
 module.exports = routes;

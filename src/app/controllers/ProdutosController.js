@@ -59,7 +59,7 @@ class ProdutosController {
     for (var i = 0; i < data.length; i++) {
       var nome_produto = data[i].pro_descricao.toLowerCase();
       if (nome_produto.includes(nome_produto_selecionado)) {
-        resultado = data[i].pro_descricao;
+        resultado = data[i].pro_descricao + " - " + data[i].pontos + " pontos";
         tmp_array.push(data[i]);
         var tmp = {
           text: {
@@ -119,7 +119,8 @@ class ProdutosController {
     var nome_produto = "Produto não encontrado";
     for (var i = 0; i < data.length; i++) {
       if (data[i].pro_cod_ext1 == codigo) {
-        nome_produto = data[i].pro_descricao;
+        nome_produto =
+          data[i].pro_descricao + " - " + data[i].pontos + " pontos";
         var tmp = {
           text: {
             text: [data[i].pro_descricao + " - " + data[i].pontos + " pontos"]
@@ -161,6 +162,81 @@ class ProdutosController {
       retorno = "Sua mensagem foi enviada com sucesso!";
     }
     res.status(200).send(retorno);
+  }
+  async faixa(req, res) {
+    console.log("rota faixa");
+    var number1 = "";
+    var number2 = "";
+    var number3 = "";
+    var number4 = "";
+
+    if (req.body.number1) {
+      number1 = req.body.number1;
+    }
+    if (req.body.number2) {
+      number2 = req.body.number2;
+    }
+    if (req.body.number3) {
+      number3 = req.body.number3;
+    }
+    if (req.body.number4) {
+      number4 = req.body.number4;
+    }
+    var tipo_pesquisa = "";
+    var resultado = "";
+
+    if (number1 != "") {
+      if (number2 != "") {
+        tipo_pesquisa = "INTERVALO";
+      }
+    }
+
+    if (number3 != "") {
+      tipo_pesquisa = "MENOR";
+    }
+
+    if (number4 != "") {
+      tipo_pesquisa = "MAIOR";
+    }
+
+    var tmp_array = [];
+    for (var i = 0; i < data.length; i++) {
+      if (tipo_pesquisa === "INTERVALO") {
+        if (parseInt(data[i].pontos) > parseInt(number1)) {
+          if (parseInt(data[i].pontos) < parseInt(number2)) {
+            tmp_array.push(data[i]);
+          }
+        }
+      }
+      if (tipo_pesquisa === "MENOR") {
+        if (parseInt(data[i].pontos) < parseInt(number3)) {
+          tmp_array.push(data[i]);
+        }
+      }
+      if (tipo_pesquisa === "MAIOR") {
+        if (parseInt(data[i].pontos) > parseInt(number4)) {
+          tmp_array.push(data[i]);
+        }
+      }
+    }
+
+    if (tmp_array.length == 0) {
+      resultado = "Não existem produtos com os valores de pontos solicitados";
+    } else {
+      if (tmp_array.length == 1) {
+        resultado =
+          "Com a pontuação solicitada eu encontrei o produto " +
+          tmp_array[0].pro_descricao +
+          " " +
+          tmp_array[0].pontos;
+      } else {
+        resultado =
+          "Existem " +
+          tmp_array.length +
+          " produtos com a pontuação informada. Por favor melhore a sua pesquisa";
+      }
+    }
+    res.status(200).send(resultado);
   }
 }
 

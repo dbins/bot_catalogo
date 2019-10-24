@@ -238,6 +238,27 @@ class ProdutosController {
     }
     res.status(200).send(resultado);
   }
+  async contato(req, res) {
+    var email = req.body.email;
+    var mensagem = req.body.mensagem;
+    var params = new FormData();
+    params.append("email", email);
+    params.append("mensagem", mensagem);
+    const headers = {
+      ...params.getHeaders(),
+      "Content-Length": params.getLengthSync()
+    };
+    var response = await axios.post(
+      "http://www.dbins.com.br/ferramentas/botcatalogo/index.php",
+      params,
+      { headers }
+    );
+    var retorno = "Sua mensagem foi enviada com sucesso!";
+    if (response.data == "OK") {
+      retorno = "Sua mensagem foi enviada com sucesso!";
+    }
+    res.status(200).send(retorno);
+  }
 }
 
 module.exports = new ProdutosController();

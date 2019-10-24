@@ -18,7 +18,10 @@ class DialogController {
     //Cancelamento - codigo
     //Reclamacao - reclamacao - email
     //Faixa de Pontos - number1 - number2 - number3 - number4
-
+    //Saldo - CPF
+    //Contato - mensagem - email
+    //Pesquisa - pesquisa
+    //Valor - number1 - number 2
     if (req.body.queryResult) {
       //const {
       //  intent,
@@ -38,6 +41,12 @@ class DialogController {
       if (intent == "CPF_participante") {
         var valor_CPF = parametro.CPF;
         response = await axios.get(`${host}/CPF/${valor_CPF}`);
+        resposta = response.data;
+      }
+
+      if (intent == "Saldo") {
+        var valor_CPF2 = parametro.CPF;
+        response = await axios.get(`${host}/saldo/${valor_CPF2}`);
         resposta = response.data;
       }
 
@@ -63,6 +72,14 @@ class DialogController {
         mensagens = response.data.messages;
       }
 
+      if (intent == "Pesquisa") {
+        //var nome_produto = "max steel";
+        var produto_informado = parametro.pesquisa;
+        response = await axios.get(`${host}/produto/${produto_informado}`);
+        resposta = response.data.text;
+        mensagens = response.data.messages;
+      }
+
       if (intent == "Sugestões") {
         response = await axios.get(`${host}/sugestao`);
         resposta = response.data.text;
@@ -81,6 +98,37 @@ class DialogController {
         response = await axios.post(`${host}/reclamacao`, {
           mensagem: mensagem,
           email: email
+        });
+        resposta = response.data;
+      }
+
+      if (intent == "Contato") {
+        var mensagem_contato = parametro.mensagem;
+        var email_contato = parametro.email;
+        response = await axios.post(`${host}/contato`, {
+          mensagem: mensagem_contato,
+          email: email_contato
+        });
+        resposta = response.data;
+      }
+
+      if (intent == "Valor") {
+        var p_number1 = "";
+        var p_number2 = "";
+        var p_number3 = "";
+        var p_number4 = "";
+
+        if (parametro.number1) {
+          p_number1 = parametro.number1;
+        }
+        if (parametro.number2) {
+          p_number2 = parametro.number2;
+        }
+        response = await axios.post(`${host}/faixa`, {
+          number1: p_number1,
+          number2: p_number2,
+          number3: p_number3,
+          number4: p_number4
         });
         resposta = response.data;
       }

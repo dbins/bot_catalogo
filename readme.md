@@ -1,6 +1,6 @@
 # BOT Catalogo Produtos
 
-Este é o backend que envia informações para um agent de chat criado na plataforma DialogFlow.
+Este é o backend que envia informações para um agent de chat criado na plataforma DialogFlow. Este é o link de "Fulfillment" 
 
 Ele serve para responder perguntas sobre produtos de um catálogo de prêmios. Existe uma base de dados fixa para consulta.
 
@@ -34,3 +34,5 @@ Abaixo segue um resumo das rotas disponíveis:
 | /produto/:nome   | GET    | Pesquisa produto pelo nome                                                     |
 | codigo_produto   | GET    | Pesquisa produto pelo código                                                   |
 | reclamacao       | POST   | Envia uma reclamação por e-mail                                                |
+| /CPF/:cpf        | GET    | Simula o retorno de saldo de pontos do participante                            |
+| contato          | POST   | Recebe uma mensagem e envia por e-mail                                         |
